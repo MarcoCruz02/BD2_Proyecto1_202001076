@@ -1,0 +1,87 @@
+nombre,codigo,continente,activo,nombre_historico
+Argentina,AR,America,1,Argentina
+Australia,AU,Oceania,1,Australia
+Austria,AT,Europa,1,Austria
+Belgica,BE,Europa,1,Belgica
+Bolivia,BO,America,1,Bolivia
+Bosnia-Herzegovina,BA,Europa,1,Yugoslavia
+Brasil,BR,America,1,Brasil
+Bulgaria,BG,Europa,1,Bulgaria
+Camerun,CM,Africa,1,Camerun
+Canada,CA,America,1,Canada
+Chile,CL,America,1,Chile
+China,CN,Asia,1,China
+Colombia,CO,America,1,Colombia
+Costa Rica,CR,America,1,Costa Rica
+Croacia,HR,Europa,1,Yugoslavia
+Cuba,CU,America,1,Cuba
+Republica Checa,CZ,Europa,1,Checoslovaquia
+Dinamarca,DK,Europa,1,Dinamarca
+Ecuador,EC,America,1,Ecuador
+Egipto,EG,Africa,1,Egipto
+El Salvador,SV,America,1,El Salvador
+Inglaterra,GB,Europa,1,Reino Unido
+Francia,FR,Europa,1,Francia
+Alemania,DE,Europa,1,Alemania Occidental
+Ghana,GH,Africa,1,Ghana
+Grecia,GR,Europa,1,Grecia
+Haiti,HT,America,1,Haiti
+Honduras,HN,America,1,Honduras
+Hungria,HU,Europa,1,Hungria
+Islandia,IS,Europa,1,Islandia
+Indonesia,ID,Asia,1,Indias Orientales Holand
+Iran,IR,Asia,1,Iran
+Iraq,IQ,Asia,1,Iraq
+Israel,IL,Asia,1,Israel
+Italia,IT,Europa,1,Italia
+Costa de Marfil,CI,Africa,1,Costa de Marfil
+Jamaica,JM,America,1,Jamaica
+Japon,JP,Asia,1,Japon
+Kuwait,KW,Asia,1,Kuwait
+Mexico,MX,America,1,Mexico
+Marruecos,MA,Africa,1,Marruecos
+Paises Bajos,NL,Europa,1,Paises Bajos
+Nueva Zelanda,NZ,Oceania,1,Nueva Zelanda
+Nigeria,NG,Africa,1,Nigeria
+Corea del Norte,KP,Asia,1,Corea
+Irlanda del Norte,GB,Europa,1,Reino Unido
+Noruega,NO,Europa,1,Noruega
+Panama,PA,America,1,Panama
+Paraguay,PY,America,1,Paraguay
+Peru,PE,America,1,Peru
+Polonia,PL,Europa,1,Polonia
+Portugal,PT,Europa,1,Portugal
+Qatar,QA,Asia,1,Qatar
+Irlanda,IE,Europa,1,Irlanda
+Rumania,RO,Europa,1,Rumania
+Rusia,RU,Europa,1,URSS
+Arabia Saudita,SA,Asia,1,Arabia Saudita
+Escocia,GB,Europa,1,Reino Unido
+Senegal,SN,Africa,1,Senegal
+Serbia,RS,Europa,1,Yugoslavia
+Eslovaquia,SK,Europa,1,Checoslovaquia
+Eslovenia,SI,Europa,1,Yugoslavia
+Sudafrica,ZA,Africa,1,Sudafrica
+Corea del Sur,KR,Asia,1,Corea
+España,ES,Europa,1,España
+Suecia,SE,Europa,1,Suecia
+Suiza,CH,Europa,1,Suiza
+Togo,TG,Africa,1,Togo
+Trinidad y Tobago,TT,America,1,Trinidad y Tobago
+Tunez,TN,Africa,1,Tunez
+Turquia,TR,Europa,1,Turquia
+Ucrania,UA,Europa,1,URSS
+Emiratos Arabes Unidos,AE,Asia,1,Emiratos Arabes Unidos
+Estados Unidos,US,America,1,Estados Unidos
+Uruguay,UY,America,1,Uruguay
+Gales,GB,Europa,1,Reino Unido
+Argelia,DZ,Africa,1,Argelia
+Angola,AO,Africa,1,Angola
+URSS,SU,Europa,0,URSS
+RF de Yugoslavia,YU,Europa,0,Yugoslavia
+Serbia y Montenegro,CS,Europa,0,RF de Yugoslavia
+Yugoslavia,YU,Europa,0,Yugoslavia
+Checoslovaquia,CS,Europa,0,Checoslovaquia
+Indias Orientales Holand,VOC,Asia,0,Indias Orientales Holand
+Alemania Occidental,DD,Europa,0,Alemania Occidental
+Zaire,ZR,Africa,0,Zaire

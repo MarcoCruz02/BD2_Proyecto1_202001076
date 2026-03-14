@@ -1,0 +1,192 @@
+anio,pais,ciudad_sede
+1930,Uruguay,Montevideo
+1934,Italia,Roma
+1934,Italia,Milan
+1934,Italia,Turin
+1934,Italia,Florencia
+1934,Italia,Genova
+1934,Italia,Bolonia
+1934,Italia,Napoles
+1934,Italia,Trieste
+1938,Francia,Paris
+1938,Francia,Marsella
+1938,Francia,Lyon
+1938,Francia,Burdeos
+1938,Francia,Estrasburgo
+1938,Francia,Toulouse
+1938,Francia,Reims
+1938,Francia,Antibes
+1938,Francia,Le Havre
+1938,Francia,Lille
+1950,Brasil,Rio de Janeiro
+1950,Brasil,Sao Paulo
+1950,Brasil,Belo Horizonte
+1950,Brasil,Porto Alegre
+1950,Brasil,Curitiba
+1950,Brasil,Recife
+1954,Suiza,Basilea
+1954,Suiza,Berna
+1954,Suiza,Zurich
+1954,Suiza,Lausana
+1954,Suiza,Ginebra
+1954,Suiza,Lugano
+1958,Suecia,Estocolmo
+1958,Suecia,Gotemburgo
+1958,Suecia,Malmo
+1958,Suecia,Norrkoping
+1958,Suecia,Helsingborg
+1958,Suecia,Vasteras
+1962,Chile,Santiago
+1962,Chile,Vina del Mar
+1962,Chile,Rancagua
+1962,Chile,Arica
+1966,Inglaterra,Londres
+1966,Inglaterra,Liverpool
+1966,Inglaterra,Manchester
+1966,Inglaterra,Sheffield
+1966,Inglaterra,Birmingham
+1966,Inglaterra,Sunderland
+1966,Inglaterra,Middlesbrough
+1966,Inglaterra,Leicester
+1970,Mexico,Ciudad de Mexico
+1970,Mexico,Guadalajara
+1970,Mexico,Leon
+1970,Mexico,Puebla
+1970,Mexico,Toluca
+1974,Alemania Occidental,Munich
+1974,Alemania Occidental,Berlin
+1974,Alemania Occidental,Hamburgo
+1974,Alemania Occidental,Dortmund
+1974,Alemania Occidental,Dusseldorf
+1974,Alemania Occidental,Frankfurt
+1974,Alemania Occidental,Stuttgart
+1974,Alemania Occidental,Hannover
+1974,Alemania Occidental,Gelsenkirchen
+1978,Argentina,Buenos Aires
+1978,Argentina,Rosario
+1978,Argentina,Cordoba
+1978,Argentina,Mendoza
+1978,Argentina,Mar del Plata
+1982,España,Madrid
+1982,España,Barcelona
+1982,España,Valencia
+1982,España,Sevilla
+1982,España,Bilbao
+1982,España,Zaragoza
+1982,España,Malaga
+1982,España,Oviedo
+1982,España,Gijon
+1982,España,Valladolid
+1982,España,Alicante
+1982,España,Elche
+1982,España,Vigo
+1982,España,La Coruna
+1986,Mexico,Ciudad de Mexico
+1986,Mexico,Guadalajara
+1986,Mexico,Monterrey
+1986,Mexico,Leon
+1986,Mexico,Puebla
+1986,Mexico,Toluca
+1986,Mexico,Queretaro
+1986,Mexico,Irapuato
+1986,Mexico,Nezahualcoyotl
+1990,Italia,Roma
+1990,Italia,Milan
+1990,Italia,Turin
+1990,Italia,Napoles
+1990,Italia,Bari
+1990,Italia,Florencia
+1990,Italia,Bolonia
+1990,Italia,Verona
+1990,Italia,Genova
+1990,Italia,Cagliari
+1990,Italia,Palermo
+1990,Italia,Udine
+1994,Estados Unidos,Los Angeles
+1994,Estados Unidos,Pasadena
+1994,Estados Unidos,Detroit
+1994,Estados Unidos,Chicago
+1994,Estados Unidos,Dallas
+1994,Estados Unidos,Boston
+1994,Estados Unidos,Nueva York
+1994,Estados Unidos,Orlando
+1994,Estados Unidos,Washington
+1998,Francia,Paris
+1998,Francia,Marsella
+1998,Francia,Lyon
+1998,Francia,Toulouse
+1998,Francia,Burdeos
+1998,Francia,Nantes
+1998,Francia,Saint-Etienne
+1998,Francia,Lens
+1998,Francia,Montpellier
+1998,Francia,Saint-Denis
+2002,Corea del Sur,Seul
+2002,Corea del Sur,Busan
+2002,Corea del Sur,Daegu
+2002,Corea del Sur,Incheon
+2002,Corea del Sur,Daejeon
+2002,Corea del Sur,Ulsan
+2002,Corea del Sur,Suwon
+2002,Corea del Sur,Gwangju
+2002,Corea del Sur,Jeonju
+2002,Japon,Sapporo
+2002,Japon,Yokohama
+2002,Japon,Osaka
+2002,Japon,Kobe
+2002,Japon,Nagoya
+2002,Japon,Miyagi
+2002,Japon,Niigata
+2002,Japon,Oita
+2002,Japon,Shizuoka
+2002,Japon,Kashima
+2002,Japon,Saitama
+2006,Alemania,Berlin
+2006,Alemania,Munich
+2006,Alemania,Dortmund
+2006,Alemania,Stuttgart
+2006,Alemania,Hamburgo
+2006,Alemania,Frankfurt
+2006,Alemania,Colonia
+2006,Alemania,Leipzig
+2006,Alemania,Hannover
+2006,Alemania,Gelsenkirchen
+2006,Alemania,Dusseldorf
+2006,Alemania,Kaiserslautern
+2010,Sudafrica,Johannesburgo
+2010,Sudafrica,Ciudad del Cabo
+2010,Sudafrica,Durban
+2010,Sudafrica,Pretoria
+2010,Sudafrica,Port Elizabeth
+2010,Sudafrica,Bloemfontein
+2010,Sudafrica,Polokwane
+2010,Sudafrica,Nelspruit
+2010,Sudafrica,Rustenburg
+2014,Brasil,Rio de Janeiro
+2014,Brasil,Sao Paulo
+2014,Brasil,Brasilia
+2014,Brasil,Salvador
+2014,Brasil,Belo Horizonte
+2014,Brasil,Fortaleza
+2014,Brasil,Recife
+2014,Brasil,Porto Alegre
+2014,Brasil,Curitiba
+2014,Brasil,Cuiaba
+2014,Brasil,Manaos
+2014,Brasil,Natal
+2018,Rusia,Moscu
+2018,Rusia,San Petersburgo
+2018,Rusia,Kazan
+2018,Rusia,Sochi
+2018,Rusia,Ekaterimburgo
+2018,Rusia,Kaliningrado
+2018,Rusia,Rostov del Don
+2018,Rusia,Samara
+2018,Rusia,Saransk
+2018,Rusia,Nizhni Novgorod
+2018,Rusia,Volgogrado
+2022,Qatar,Doha
+2022,Qatar,Lusail
+2022,Qatar,Al Rayyan
+2022,Qatar,Al Khor
+2022,Qatar,Al Wakrah
