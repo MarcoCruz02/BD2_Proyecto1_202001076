@@ -45,7 +45,7 @@ def scrapear_jugador(url):
             )
 
             if r.status_code != 200:
-                time.sleep(1)
+                time.sleep(3)
                 continue
 
             print("Status:", r.status_code, url)
@@ -135,7 +135,7 @@ def scrapear_jugador(url):
         except Exception as e:
 
             print("Reintento", intento+1, e)
-            time.sleep(1)
+            time.sleep(3)
 
     return None
 
@@ -204,7 +204,8 @@ lista_urlsMund = [
     "https://www.losmundialesdefutbol.com/jugadores/roberto_cerro.php",
     "https://www.losmundialesdefutbol.com/jugadores/manuel_ferreira.php",
     "https://www.losmundialesdefutbol.com/jugadores/mario_evaristo.php",
-    "https://www.losmundialesdefutbol.com/jugadores/atilio_demaria.php"
+    "https://www.losmundialesdefutbol.com/jugadores/atilio_demaria.php",
+    "https://www.losmundialesdefutbol.com/jugadores/cesar_espinoza.php"
 ]
 
 link_messi = [

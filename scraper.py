@@ -269,7 +269,7 @@ def escanear_info_mundial(lista_urlsMund):
 
                 r = requests.get(url, headers=headers)
                 r.encoding = "utf-8"
-
+                print(r.status_code)
                 soup = BeautifulSoup(r.text, "html.parser")
 
                 # -------- AÑO DESDE TITLE --------
@@ -1333,11 +1333,6 @@ lista_urlsPremios = [
     "https://www.losmundialesdefutbol.com/mundiales/2018_premios.php"
 ]
 
-lista_urlsPremios = [
-    "https://www.losmundialesdefutbol.com/mundiales/1930_premios.php",
-    "https://www.losmundialesdefutbol.com/mundiales/2018_premios.php"
-]
-
 lista_urlsParticipacionJugadorMundial = [
     "https://www.losmundialesdefutbol.com/mundiales/1930_mundial.php"
 ]
@@ -1346,7 +1341,7 @@ print("\n--- INICIANDO MAPEO DE ESTRUCTURA ---")
 
 #escanear_nuevas_ramas(lista_urls)
 
-#escanear_info_mundial(lista_urlsMund)
+escanear_info_mundial(lista_urlsMund)
 #escanear_info_partido(lista_urlsPartidos)
 #escanear_info_pos_final(lista_urlsPosFinal)
 #escanear_info_grupos(lista_urlsGrupos)
