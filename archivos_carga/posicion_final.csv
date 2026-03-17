@@ -1,0 +1,491 @@
+anio_mundial,nombre_pais,posicion,etapa,pts,pj,pg,pe,pp,gf,gc,dif,es_campeon,es_subcampeon
+1930,Uruguay,1,final,8,4,4,0,0,15,3,12,1,0
+1930,Argentina,2,final,8,5,4,0,1,18,9,9,0,1
+1930,Estados Unidos,3,partido 3er puesto,4,3,2,0,1,7,6,1,0,0
+1930,Yugoslavia,4,partido 3er puesto,4,3,2,0,1,7,7,0,0,0
+1930,Chile,5,grupos 1ra ronda,4,3,2,0,1,5,3,2,0,0
+1930,Brasil,6,grupos 1ra ronda,2,2,1,0,1,5,2,3,0,0
+1930,Francia,7,grupos 1ra ronda,2,3,1,0,2,4,3,1,0,0
+1930,Rumania,8,grupos 1ra ronda,2,2,1,0,1,3,5,-2,0,0
+1930,Paraguay,9,grupos 1ra ronda,2,2,1,0,1,1,3,-2,0,0
+1930,Perú,10,grupos 1ra ronda,0,2,0,0,2,1,4,-3,0,0
+1930,Bélgica,11,grupos 1ra ronda,0,2,0,0,2,0,4,-4,0,0
+1930,Bolivia,12,grupos 1ra ronda,0,2,0,0,2,0,8,-8,0,0
+1930,México,13,grupos 1ra ronda,0,3,0,0,3,4,13,-9,0,0
+1934,Italia,1,final,9,5,4,1,0,12,3,9,1,0
+1934,Checoslovaquia,2,final,6,4,3,0,1,9,6,3,0,1
+1934,Alemania,3,partido 3er puesto,6,4,3,0,1,11,8,3,0,0
+1934,Austria,4,partido 3er puesto,4,4,2,0,2,7,7,0,0,0
+1934,España,5,cuartos de final,3,3,1,1,1,4,3,1,0,0
+1934,Hungría,6,cuartos de final,2,2,1,0,1,5,4,1,0,0
+1934,Suiza,7,cuartos de final,2,2,1,0,1,5,5,0,0,0
+1934,Suecia,8,cuartos de final,2,2,1,0,1,4,4,0,0,0
+1934,Argentina,9,octavos de final,0,1,0,0,1,2,3,-1,0,0
+1934,Francia,9,octavos de final,0,1,0,0,1,2,3,-1,0,0
+1934,Paises Bajos,9,octavos de final,0,1,0,0,1,2,3,-1,0,0
+1934,Rumania,12,octavos de final,0,1,0,0,1,1,2,-1,0,0
+1934,Egipto,13,octavos de final,0,1,0,0,1,2,4,-2,0,0
+1934,Brasil,14,octavos de final,0,1,0,0,1,1,3,-2,0,0
+1934,Bélgica,15,octavos de final,0,1,0,0,1,2,5,-3,0,0
+1934,Estados Unidos,16,octavos de final,0,1,0,0,1,1,7,-6,0,0
+1938,Italia,1,final,8,4,4,0,0,11,5,6,1,0
+1938,Hungría,2,final,6,4,3,0,1,15,5,10,0,1
+1938,Brasil,3,partido 3er puesto,7,5,3,1,1,14,11,3,0,0
+1938,Suecia,4,partido 3er puesto,2,3,1,0,2,11,9,2,0,0
+1938,Checoslovaquia,5,cuartos de final,3,3,1,1,1,5,3,2,0,0
+1938,Suiza,6,cuartos de final,3,3,1,1,1,5,5,0,0,0
+1938,Cuba,7,cuartos de final,3,3,1,1,1,5,12,-7,0,0
+1938,Francia,8,cuartos de final,2,2,1,0,1,4,4,0,0,0
+1938,Rumania,9,octavos de final,1,2,0,1,1,4,5,-1,0,0
+1938,Alemania,10,octavos de final,1,2,0,1,1,3,5,-2,0,0
+1938,Polonia,11,octavos de final,0,1,0,0,1,5,6,-1,0,0
+1938,Noruega,12,octavos de final,0,1,0,0,1,1,2,-1,0,0
+1938,Bélgica,13,octavos de final,0,1,0,0,1,1,3,-2,0,0
+1938,Paises Bajos,14,octavos de final,0,1,0,0,1,0,3,-3,0,0
+1938,Indias Orientales Holand.,15,octavos de final,0,1,0,0,1,0,6,-6,0,0
+1938,Austria,16,octavos de final,0,0,0,0,0,0,0,0,0,0
+1950,Uruguay,1,ronda final,7,4,3,1,0,15,5,10,1,0
+1950,Brasil,2,ronda final,9,6,4,1,1,22,6,16,0,1
+1950,Suecia,3,ronda final,5,5,2,1,2,11,15,-4,0,0
+1950,España,4,ronda final,7,6,3,1,2,10,12,-2,0,0
+1950,Yugoslavia,5,grupos 1ra ronda,4,3,2,0,1,7,3,4,0,0
+1950,Suiza,6,grupos 1ra ronda,3,3,1,1,1,4,6,-2,0,0
+1950,Italia,7,grupos 1ra ronda,2,2,1,0,1,4,3,1,0,0
+1950,Inglaterra,8,grupos 1ra ronda,2,3,1,0,2,2,2,0,0,0
+1950,Chile,9,grupos 1ra ronda,2,3,1,0,2,5,6,-1,0,0
+1950,Estados Unidos,10,grupos 1ra ronda,2,3,1,0,2,4,8,-4,0,0
+1950,Paraguay,11,grupos 1ra ronda,1,2,0,1,1,2,4,-2,0,0
+1950,México,12,grupos 1ra ronda,0,3,0,0,3,2,10,-8,0,0
+1950,Bolivia,13,grupos 1ra ronda,0,1,0,0,1,0,8,-8,0,0
+1954,Alemania Occidental,1,final,10,6,5,0,1,25,14,11,1,0
+1954,Hungría,2,final,8,5,4,0,1,27,10,17,0,1
+1954,Austria,3,partido 3er puesto,8,5,4,0,1,17,12,5,0,0
+1954,Uruguay,4,partido 3er puesto,6,5,3,0,2,16,9,7,0,0
+1954,Suiza,5,cuartos de final,4,4,2,0,2,11,11,0,0,0
+1954,Brasil,6,cuartos de final,3,3,1,1,1,8,5,3,0,0
+1954,Inglaterra,7,cuartos de final,3,3,1,1,1,8,8,0,0,0
+1954,Yugoslavia,8,cuartos de final,3,3,1,1,1,2,3,-1,0,0
+1954,Francia,9,grupos 1ra ronda,2,2,1,0,1,3,3,0,0,0
+1954,Italia,10,grupos 1ra ronda,2,3,1,0,2,6,7,-1,0,0
+1954,Turquía,11,grupos 1ra ronda,2,3,1,0,2,10,11,-1,0,0
+1954,Bélgica,12,grupos 1ra ronda,1,2,0,1,1,5,8,-3,0,0
+1954,México,13,grupos 1ra ronda,0,2,0,0,2,2,8,-6,0,0
+1954,Checoslovaquia,14,grupos 1ra ronda,0,2,0,0,2,0,7,-7,0,0
+1954,Escocia,15,grupos 1ra ronda,0,2,0,0,2,0,8,-8,0,0
+1954,Corea del Sur,16,grupos 1ra ronda,0,2,0,0,2,0,16,-16,0,0
+1958,Brasil,1,final,11,6,5,1,0,16,4,12,1,0
+1958,Suecia,2,final,9,6,4,1,1,12,7,5,0,1
+1958,Francia,3,partido 3er puesto,8,6,4,0,2,23,15,8,0,0
+1958,Alemania Occidental,4,partido 3er puesto,6,6,2,2,2,12,14,-2,0,0
+1958,Gales,5,cuartos de final,5,5,1,3,1,4,4,0,0,0
+1958,URSS,6,cuartos de final,5,5,2,1,2,5,6,-1,0,0
+1958,Irlanda del Norte,7,cuartos de final,5,5,2,1,2,6,10,-4,0,0
+1958,Yugoslavia,8,cuartos de final,4,4,1,2,1,7,7,0,0,0
+1958,Checoslovaquia,9,grupos 1ra ronda,3,4,1,1,2,9,6,3,0,0
+1958,Hungría,10,grupos 1ra ronda,3,4,1,1,2,7,5,2,0,0
+1958,Inglaterra,11,grupos 1ra ronda,3,4,0,3,1,4,5,-1,0,0
+1958,Paraguay,12,grupos 1ra ronda,3,3,1,1,1,9,12,-3,0,0
+1958,Argentina,13,grupos 1ra ronda,2,3,1,0,2,5,10,-5,0,0
+1958,Escocia,14,grupos 1ra ronda,1,3,0,1,2,4,6,-2,0,0
+1958,Austria,15,grupos 1ra ronda,1,3,0,1,2,2,7,-5,0,0
+1958,México,16,grupos 1ra ronda,1,3,0,1,2,1,8,-7,0,0
+1962,Brasil,1,final,11,6,5,1,0,14,5,9,1,0
+1962,Checoslovaquia,2,final,7,6,3,1,2,7,7,0,0,1
+1962,Chile,3,partido 3er puesto,8,6,4,0,2,10,8,2,0,0
+1962,Yugoslavia,4,partido 3er puesto,6,6,3,0,3,10,7,3,0,0
+1962,Hungría,5,cuartos de final,5,4,2,1,1,8,3,5,0,0
+1962,URSS,6,cuartos de final,5,4,2,1,1,9,7,2,0,0
+1962,Alemania Occidental,7,cuartos de final,5,4,2,1,1,4,2,2,0,0
+1962,Inglaterra,8,cuartos de final,3,4,1,1,2,5,6,-1,0,0
+1962,Italia,9,grupos 1ra ronda,3,3,1,1,1,3,2,1,0,0
+1962,Argentina,10,grupos 1ra ronda,3,3,1,1,1,2,3,-1,0,0
+1962,México,11,grupos 1ra ronda,2,3,1,0,2,3,4,-1,0,0
+1962,España,12,grupos 1ra ronda,2,3,1,0,2,2,3,-1,0,0
+1962,Uruguay,13,grupos 1ra ronda,2,3,1,0,2,4,6,-2,0,0
+1962,Colombia,14,grupos 1ra ronda,1,3,0,1,2,5,11,-6,0,0
+1962,Bulgaria,15,grupos 1ra ronda,1,3,0,1,2,1,7,-6,0,0
+1962,Suiza,16,grupos 1ra ronda,0,3,0,0,3,2,8,-6,0,0
+1966,Inglaterra,1,final,11,6,5,1,0,11,3,8,1,0
+1966,Alemania Occidental,2,final,9,6,4,1,1,15,6,9,0,1
+1966,Portugal,3,partido 3er puesto,10,6,5,0,1,17,8,9,0,0
+1966,URSS,4,partido 3er puesto,8,6,4,0,2,10,6,4,0,0
+1966,Argentina,5,cuartos de final,5,4,2,1,1,4,2,2,0,0
+1966,Hungría,6,cuartos de final,4,4,2,0,2,8,7,1,0,0
+1966,Uruguay,7,cuartos de final,4,4,1,2,1,2,5,-3,0,0
+1966,Corea del Norte,8,cuartos de final,3,4,1,1,2,5,9,-4,0,0
+1966,Italia,9,grupos 1ra ronda,2,3,1,0,2,2,2,0,0,0
+1966,España,10,grupos 1ra ronda,2,3,1,0,2,4,5,-1,0,0
+1966,Brasil,11,grupos 1ra ronda,2,3,1,0,2,4,6,-2,0,0
+1966,México,12,grupos 1ra ronda,2,3,0,2,1,1,3,-2,0,0
+1966,Chile,13,grupos 1ra ronda,1,3,0,1,2,2,5,-3,0,0
+1966,Francia,13,grupos 1ra ronda,1,3,0,1,2,2,5,-3,0,0
+1966,Bulgaria,15,grupos 1ra ronda,0,3,0,0,3,1,8,-7,0,0
+1966,Suiza,16,grupos 1ra ronda,0,3,0,0,3,1,9,-8,0,0
+1970,Brasil,1,final,12,6,6,0,0,19,7,12,1,0
+1970,Italia,2,final,8,6,3,2,1,10,8,2,0,1
+1970,Alemania Occidental,3,partido 3er puesto,10,6,5,0,1,17,10,7,0,0
+1970,Uruguay,4,partido 3er puesto,5,6,2,1,3,4,5,-1,0,0
+1970,URSS,5,cuartos de final,5,4,2,1,1,6,2,4,0,0
+1970,México,6,cuartos de final,5,4,2,1,1,6,4,2,0,0
+1970,Perú,7,cuartos de final,4,4,2,0,2,9,9,0,0,0
+1970,Inglaterra,8,cuartos de final,4,4,2,0,2,4,4,0,0,0
+1970,Suecia,9,grupos 1ra ronda,3,3,1,1,1,2,2,0,0,0
+1970,Bélgica,10,grupos 1ra ronda,2,3,1,0,2,4,5,-1,0,0
+1970,Rumania,10,grupos 1ra ronda,2,3,1,0,2,4,5,-1,0,0
+1970,Israel,12,grupos 1ra ronda,2,3,0,2,1,1,3,-2,0,0
+1970,Bulgaria,13,grupos 1ra ronda,1,3,0,1,2,5,9,-4,0,0
+1970,Marruecos,14,grupos 1ra ronda,1,3,0,1,2,2,6,-4,0,0
+1970,Checoslovaquia,15,grupos 1ra ronda,0,3,0,0,3,2,7,-5,0,0
+1970,El Salvador,16,grupos 1ra ronda,0,3,0,0,3,0,9,-9,0,0
+1974,Alemania Occidental,1,final,12,7,6,0,1,13,4,9,1,0
+1974,Paises Bajos,2,final,11,7,5,1,1,15,3,12,0,1
+1974,Polonia,3,partido 3er puesto,12,7,6,0,1,16,5,11,0,0
+1974,Brasil,4,partido 3er puesto,8,7,3,2,2,6,4,2,0,0
+1974,Suecia,5,grupos 2da ronda,6,6,2,2,2,7,6,1,0,0
+1974,Alemania Oriental,6,grupos 2da ronda,6,6,2,2,2,5,5,0,0,0
+1974,Yugoslavia,7,grupos 2da ronda,4,6,1,2,3,12,7,5,0,0
+1974,Argentina,8,grupos 2da ronda,4,6,1,2,3,9,12,-3,0,0
+1974,Escocia,9,grupos 1ra ronda,4,3,1,2,0,3,1,2,0,0
+1974,Italia,10,grupos 1ra ronda,3,3,1,1,1,5,4,1,0,0
+1974,Chile,11,grupos 1ra ronda,2,3,0,2,1,1,2,-1,0,0
+1974,Bulgaria,12,grupos 1ra ronda,2,3,0,2,1,2,5,-3,0,0
+1974,Uruguay,13,grupos 1ra ronda,1,3,0,1,2,1,6,-5,0,0
+1974,Australia,14,grupos 1ra ronda,1,3,0,1,2,0,5,-5,0,0
+1974,Haití,15,grupos 1ra ronda,0,3,0,0,3,2,14,-12,0,0
+1974,Zaire,16,grupos 1ra ronda,0,3,0,0,3,0,14,-14,0,0
+1978,Argentina,1,final,11,7,5,1,1,15,4,11,1,0
+1978,Paises Bajos,2,final,8,7,3,2,2,15,10,5,0,1
+1978,Brasil,3,partido 3er puesto,11,7,4,3,0,10,3,7,0,0
+1978,Italia,4,partido 3er puesto,9,7,4,1,2,9,6,3,0,0
+1978,Polonia,5,grupos 2da ronda,7,6,3,1,2,6,6,0,0,0
+1978,Alemania Occidental,6,grupos 2da ronda,6,6,1,4,1,10,5,5,0,0
+1978,Austria,7,grupos 2da ronda,6,6,3,0,3,7,10,-3,0,0
+1978,Perú,8,grupos 2da ronda,5,6,2,1,3,7,12,-5,0,0
+1978,Túnez,9,grupos 1ra ronda,3,3,1,1,1,3,2,1,0,0
+1978,España,10,grupos 1ra ronda,3,3,1,1,1,2,2,0,0,0
+1978,Escocia,11,grupos 1ra ronda,3,3,1,1,1,5,6,-1,0,0
+1978,Francia,12,grupos 1ra ronda,2,3,1,0,2,5,5,0,0,0
+1978,Suecia,13,grupos 1ra ronda,1,3,0,1,2,1,3,-2,0,0
+1978,Irán,14,grupos 1ra ronda,1,3,0,1,2,2,8,-6,0,0
+1978,Hungría,15,grupos 1ra ronda,0,3,0,0,3,3,8,-5,0,0
+1978,México,16,grupos 1ra ronda,0,3,0,0,3,2,12,-10,0,0
+1982,Italia,1,final,11,7,4,3,0,12,6,6,1,0
+1982,Alemania Occidental,2,final,8,7,3,2,2,12,10,2,0,1
+1982,Polonia,3,partido 3er puesto,9,7,3,3,1,11,5,6,0,0
+1982,Francia,4,partido 3er puesto,8,7,3,2,2,16,12,4,0,0
+1982,Brasil,5,grupos 2da ronda,8,5,4,0,1,15,6,9,0,0
+1982,Inglaterra,6,grupos 2da ronda,8,5,3,2,0,6,1,5,0,0
+1982,URSS,7,grupos 2da ronda,6,5,2,2,1,7,4,3,0,0
+1982,Austria,8,grupos 2da ronda,5,5,2,1,2,5,4,1,0,0
+1982,Irlanda del Norte,9,grupos 2da ronda,5,5,1,3,1,5,7,-2,0,0
+1982,Bélgica,10,grupos 2da ronda,5,5,2,1,2,3,5,-2,0,0
+1982,Argentina,11,grupos 2da ronda,4,5,2,0,3,8,7,1,0,0
+1982,España,12,grupos 2da ronda,4,5,1,2,2,4,5,-1,0,0
+1982,Argelia,13,grupos 1ra ronda,4,3,2,0,1,5,5,0,0,0
+1982,Hungría,14,grupos 1ra ronda,3,3,1,1,1,12,6,6,0,0
+1982,Escocia,15,grupos 1ra ronda,3,3,1,1,1,8,8,0,0,0
+1982,Yugoslavia,16,grupos 1ra ronda,3,3,1,1,1,2,2,0,0,0
+1982,Camerún,17,grupos 1ra ronda,3,3,0,3,0,1,1,0,0,0
+1982,Honduras,18,grupos 1ra ronda,2,3,0,2,1,2,3,-1,0,0
+1982,Checoslovaquia,19,grupos 1ra ronda,2,3,0,2,1,2,4,-2,0,0
+1982,Perú,20,grupos 1ra ronda,2,3,0,2,1,2,6,-4,0,0
+1982,Kuwait,21,grupos 1ra ronda,1,3,0,1,2,2,6,-4,0,0
+1982,Chile,22,grupos 1ra ronda,0,3,0,0,3,3,8,-5,0,0
+1982,Nueva Zelanda,23,grupos 1ra ronda,0,3,0,0,3,2,12,-10,0,0
+1982,El Salvador,24,grupos 1ra ronda,0,3,0,0,3,1,13,-12,0,0
+1986,Argentina,1,final,13,7,6,1,0,14,5,9,1,0
+1986,Alemania Occidental,2,final,8,7,3,2,2,8,7,1,0,1
+1986,Francia,3,partido 3er puesto,10,7,4,2,1,12,6,6,0,0
+1986,Bélgica,4,partido 3er puesto,6,7,2,2,3,12,15,-3,0,0
+1986,Brasil,5,cuartos de final,9,5,4,1,0,10,1,9,0,0
+1986,México,6,cuartos de final,8,5,3,2,0,6,2,4,0,0
+1986,España,7,cuartos de final,7,5,3,1,1,11,4,7,0,0
+1986,Inglaterra,8,cuartos de final,5,5,2,1,2,7,3,4,0,0
+1986,Dinamarca,9,octavos de final,6,4,3,0,1,10,6,4,0,0
+1986,URSS,10,octavos de final,5,4,2,1,1,12,5,7,0,0
+1986,Marruecos,11,octavos de final,4,4,1,2,1,3,2,1,0,0
+1986,Italia,12,octavos de final,4,4,1,2,1,5,6,-1,0,0
+1986,Paraguay,13,octavos de final,4,4,1,2,1,4,6,-2,0,0
+1986,Polonia,14,octavos de final,3,4,1,1,2,1,7,-6,0,0
+1986,Bulgaria,15,octavos de final,2,4,0,2,2,2,6,-4,0,0
+1986,Uruguay,16,octavos de final,2,4,0,2,2,2,8,-6,0,0
+1986,Portugal,17,grupos 1ra ronda,2,3,1,0,2,2,4,-2,0,0
+1986,Hungría,18,grupos 1ra ronda,2,3,1,0,2,2,9,-7,0,0
+1986,Escocia,19,grupos 1ra ronda,1,3,0,1,2,1,3,-2,0,0
+1986,Corea del Sur,20,grupos 1ra ronda,1,3,0,1,2,4,7,-3,0,0
+1986,Irlanda del Norte,21,grupos 1ra ronda,1,3,0,1,2,2,6,-4,0,0
+1986,Argelia,22,grupos 1ra ronda,1,3,0,1,2,1,5,-4,0,0
+1986,Iraq,23,grupos 1ra ronda,0,3,0,0,3,1,4,-3,0,0
+1986,Canadá,24,grupos 1ra ronda,0,3,0,0,3,0,5,-5,0,0
+1990,Alemania Occidental,1,final,12,7,5,2,0,15,5,10,1,0
+1990,Argentina,2,final,7,7,2,3,2,5,4,1,0,1
+1990,Italia,3,partido 3er puesto,13,7,6,1,0,10,2,8,0,0
+1990,Inglaterra,4,partido 3er puesto,9,7,3,3,1,8,6,2,0,0
+1990,Yugoslavia,5,cuartos de final,7,5,3,1,1,8,6,2,0,0
+1990,Checoslovaquia,6,cuartos de final,6,5,3,0,2,10,5,5,0,0
+1990,Camerún,7,cuartos de final,6,5,3,0,2,7,9,-2,0,0
+1990,Irlanda,8,cuartos de final,4,5,0,4,1,2,3,-1,0,0
+1990,Brasil,9,octavos de final,6,4,3,0,1,4,2,2,0,0
+1990,España,10,octavos de final,5,4,2,1,1,6,4,2,0,0
+1990,Bélgica,11,octavos de final,4,4,2,0,2,6,4,2,0,0
+1990,Rumania,12,octavos de final,4,4,1,2,1,4,3,1,0,0
+1990,Costa Rica,13,octavos de final,4,4,2,0,2,4,6,-2,0,0
+1990,Colombia,14,octavos de final,3,4,1,1,2,4,4,0,0,0
+1990,Paises Bajos,15,octavos de final,3,4,0,3,1,3,4,-1,0,0
+1990,Uruguay,16,octavos de final,3,4,1,1,2,2,5,-3,0,0
+1990,URSS,17,grupos 1ra ronda,2,3,1,0,2,4,4,0,0,0
+1990,Austria,18,grupos 1ra ronda,2,3,1,0,2,2,3,-1,0,0
+1990,Escocia,18,grupos 1ra ronda,2,3,1,0,2,2,3,-1,0,0
+1990,Egipto,20,grupos 1ra ronda,2,3,0,2,1,1,2,-1,0,0
+1990,Suecia,21,grupos 1ra ronda,0,3,0,0,3,3,6,-3,0,0
+1990,Corea del Sur,22,grupos 1ra ronda,0,3,0,0,3,1,6,-5,0,0
+1990,Estados Unidos,23,grupos 1ra ronda,0,3,0,0,3,2,8,-6,0,0
+1990,Emiratos Arabes,24,grupos 1ra ronda,0,3,0,0,3,2,11,-9,0,0
+1994,Brasil,1,final,17,7,5,2,0,11,3,8,1,0
+1994,Italia,2,final,14,7,4,2,1,8,5,3,0,1
+1994,Suecia,3,partido 3er puesto,12,7,3,3,1,15,8,7,0,0
+1994,Bulgaria,4,partido 3er puesto,10,7,3,1,3,10,11,-1,0,0
+1994,Alemania,5,cuartos de final,10,5,3,1,1,9,7,2,0,0
+1994,Rumania,6,cuartos de final,10,5,3,1,1,10,9,1,0,0
+1994,Paises Bajos,7,cuartos de final,9,5,3,0,2,8,6,2,0,0
+1994,España,8,cuartos de final,8,5,2,2,1,10,6,4,0,0
+1994,Nigeria,9,octavos de final,6,4,2,0,2,7,4,3,0,0
+1994,Argentina,10,octavos de final,6,4,2,0,2,8,6,2,0,0
+1994,Bélgica,11,octavos de final,6,4,2,0,2,4,4,0,0,0
+1994,Arabia Saudita,12,octavos de final,6,4,2,0,2,5,6,-1,0,0
+1994,México,13,octavos de final,5,4,1,2,1,4,4,0,0,0
+1994,Estados Unidos,14,octavos de final,4,4,1,1,2,3,4,-1,0,0
+1994,Suiza,15,octavos de final,4,4,1,1,2,5,7,-2,0,0
+1994,Irlanda,16,octavos de final,4,4,1,1,2,2,4,-2,0,0
+1994,Noruega,17,grupos 1ra ronda,4,3,1,1,1,1,1,0,0,0
+1994,Rusia,18,grupos 1ra ronda,3,3,1,0,2,7,6,1,0,0
+1994,Colombia,19,grupos 1ra ronda,3,3,1,0,2,4,5,-1,0,0
+1994,Corea del Sur,20,grupos 1ra ronda,2,3,0,2,1,4,5,-1,0,0
+1994,Bolivia,21,grupos 1ra ronda,1,3,0,1,2,1,4,-3,0,0
+1994,Camerún,22,grupos 1ra ronda,1,3,0,1,2,3,11,-8,0,0
+1994,Marruecos,23,grupos 1ra ronda,0,3,0,0,3,2,5,-3,0,0
+1994,Grecia,24,grupos 1ra ronda,0,3,0,0,3,0,10,-10,0,0
+1998,Francia,1,final,19,7,6,1,0,15,2,13,1,0
+1998,Brasil,2,final,13,7,4,1,2,14,10,4,0,1
+1998,Croacia,3,partido 3er puesto,15,7,5,0,2,11,5,6,0,0
+1998,Paises Bajos,4,partido 3er puesto,12,7,3,3,1,13,7,6,0,0
+1998,Italia,5,cuartos de final,11,5,3,2,0,8,3,5,0,0
+1998,Argentina,6,cuartos de final,10,5,3,1,1,10,4,6,0,0
+1998,Alemania,7,cuartos de final,10,5,3,1,1,8,6,2,0,0
+1998,Dinamarca,8,cuartos de final,7,5,2,1,2,9,7,2,0,0
+1998,Inglaterra,9,octavos de final,7,4,2,1,1,7,4,3,0,0
+1998,RF de Yugoslavia,10,octavos de final,7,4,2,1,1,5,4,1,0,0
+1998,Rumania,11,octavos de final,7,4,2,1,1,4,3,1,0,0
+1998,Nigeria,12,octavos de final,6,4,2,0,2,6,9,-3,0,0
+1998,México,13,octavos de final,5,4,1,2,1,8,7,1,0,0
+1998,Paraguay,14,octavos de final,5,4,1,2,1,3,2,1,0,0
+1998,Noruega,15,octavos de final,5,4,1,2,1,5,5,0,0,0
+1998,Chile,16,octavos de final,3,4,0,3,1,5,8,-3,0,0
+1998,España,17,grupos 1ra ronda,4,3,1,1,1,8,4,4,0,0
+1998,Marruecos,18,grupos 1ra ronda,4,3,1,1,1,5,5,0,0,0
+1998,Bélgica,19,grupos 1ra ronda,3,3,0,3,0,3,3,0,0,0
+1998,Irán,20,grupos 1ra ronda,3,3,1,0,2,2,4,-2,0,0
+1998,Colombia,21,grupos 1ra ronda,3,3,1,0,2,1,3,-2,0,0
+1998,Jamaica,22,grupos 1ra ronda,3,3,1,0,2,3,9,-6,0,0
+1998,Austria,23,grupos 1ra ronda,2,3,0,2,1,3,4,-1,0,0
+1998,Sudáfrica,24,grupos 1ra ronda,2,3,0,2,1,3,6,-3,0,0
+1998,Camerún,25,grupos 1ra ronda,2,3,0,2,1,2,5,-3,0,0
+1998,Túnez,26,grupos 1ra ronda,1,3,0,1,2,1,4,-3,0,0
+1998,Escocia,27,grupos 1ra ronda,1,3,0,1,2,2,6,-4,0,0
+1998,Arabia Saudita,28,grupos 1ra ronda,1,3,0,1,2,2,7,-5,0,0
+1998,Bulgaria,29,grupos 1ra ronda,1,3,0,1,2,1,7,-6,0,0
+1998,Corea del Sur,30,grupos 1ra ronda,1,3,0,1,2,2,9,-7,0,0
+1998,Japón,31,grupos 1ra ronda,0,3,0,0,3,1,4,-3,0,0
+1998,Estados Unidos,32,grupos 1ra ronda,0,3,0,0,3,1,5,-4,0,0
+2002,Brasil,1,final,21,7,7,0,0,18,4,14,1,0
+2002,Alemania,2,final,16,7,5,1,1,14,3,11,0,1
+2002,Turquía,3,partido 3er puesto,13,7,4,1,2,10,6,4,0,0
+2002,Corea del Sur,4,partido 3er puesto,11,7,3,2,2,8,6,2,0,0
+2002,España,5,cuartos de final,11,5,3,2,0,10,5,5,0,0
+2002,Inglaterra,6,cuartos de final,8,5,2,2,1,6,3,3,0,0
+2002,Senegal,7,cuartos de final,8,5,2,2,1,7,6,1,0,0
+2002,Estados Unidos,8,cuartos de final,7,5,2,1,2,7,7,0,0,0
+2002,Japón,9,octavos de final,7,4,2,1,1,5,3,2,0,0
+2002,Dinamarca,10,octavos de final,7,4,2,1,1,5,5,0,0,0
+2002,México,11,octavos de final,7,4,2,1,1,4,4,0,0,0
+2002,Irlanda,12,octavos de final,6,4,1,3,0,6,3,3,0,0
+2002,Suecia,13,octavos de final,5,4,1,2,1,5,5,0,0,0
+2002,Bélgica,14,octavos de final,5,4,1,2,1,6,7,-1,0,0
+2002,Italia,15,octavos de final,4,4,1,1,2,5,5,0,0,0
+2002,Paraguay,16,octavos de final,4,4,1,1,2,6,7,-1,0,0
+2002,Sudáfrica,17,grupos 1ra ronda,4,3,1,1,1,5,5,0,0,0
+2002,Argentina,18,grupos 1ra ronda,4,3,1,1,1,2,2,0,0,0
+2002,Costa Rica,19,grupos 1ra ronda,4,3,1,1,1,5,6,-1,0,0
+2002,Camerún,20,grupos 1ra ronda,4,3,1,1,1,2,3,-1,0,0
+2002,Portugal,21,grupos 1ra ronda,3,3,1,0,2,6,4,2,0,0
+2002,Rusia,22,grupos 1ra ronda,3,3,1,0,2,4,4,0,0,0
+2002,Croacia,23,grupos 1ra ronda,3,3,1,0,2,2,3,-1,0,0
+2002,Ecuador,24,grupos 1ra ronda,3,3,1,0,2,2,4,-2,0,0
+2002,Polonia,25,grupos 1ra ronda,3,3,1,0,2,3,7,-4,0,0
+2002,Uruguay,26,grupos 1ra ronda,2,3,0,2,1,4,5,-1,0,0
+2002,Nigeria,27,grupos 1ra ronda,1,3,0,1,2,1,3,-2,0,0
+2002,Francia,28,grupos 1ra ronda,1,3,0,1,2,0,3,-3,0,0
+2002,Túnez,29,grupos 1ra ronda,1,3,0,1,2,1,5,-4,0,0
+2002,Eslovenia,30,grupos 1ra ronda,0,3,0,0,3,2,7,-5,0,0
+2002,China,31,grupos 1ra ronda,0,3,0,0,3,0,9,-9,0,0
+2002,Arabia Saudita,32,grupos 1ra ronda,0,3,0,0,3,0,12,-12,0,0
+2006,Italia,1,final,17,7,5,2,0,12,2,10,1,0
+2006,Francia,2,final,15,7,4,3,0,9,3,6,0,1
+2006,Alemania,3,partido 3er puesto,16,7,5,1,1,14,6,8,0,0
+2006,Portugal,4,partido 3er puesto,13,7,4,1,2,7,5,2,0,0
+2006,Brasil,5,cuartos de final,12,5,4,0,1,10,2,8,0,0
+2006,Argentina,6,cuartos de final,11,5,3,2,0,11,3,8,0,0
+2006,Inglaterra,7,cuartos de final,11,5,3,2,0,6,2,4,0,0
+2006,Ucrania,8,cuartos de final,7,5,2,1,2,5,7,-2,0,0
+2006,España,9,octavos de final,9,4,3,0,1,9,4,5,0,0
+2006,Suiza,10,octavos de final,8,4,2,2,0,4,0,4,0,0
+2006,Paises Bajos,11,octavos de final,7,4,2,1,1,3,2,1,0,0
+2006,Ecuador,12,octavos de final,6,4,2,0,2,5,4,1,0,0
+2006,Ghana,13,octavos de final,6,4,2,0,2,4,6,-2,0,0
+2006,Suecia,14,octavos de final,5,4,1,2,1,3,4,-1,0,0
+2006,México,15,octavos de final,4,4,1,1,2,5,5,0,0,0
+2006,Australia,16,octavos de final,4,4,1,1,2,5,6,-1,0,0
+2006,Corea del Sur,17,grupos 1ra ronda,4,3,1,1,1,3,4,-1,0,0
+2006,Paraguay,18,grupos 1ra ronda,3,3,1,0,2,2,2,0,0,0
+2006,Costa de Marfil,19,grupos 1ra ronda,3,3,1,0,2,5,6,-1,0,0
+2006,República Checa,20,grupos 1ra ronda,3,3,1,0,2,3,4,-1,0,0
+2006,Polonia,21,grupos 1ra ronda,3,3,1,0,2,2,4,-2,0,0
+2006,Croacia,22,grupos 1ra ronda,2,3,0,2,1,2,3,-1,0,0
+2006,Angola,23,grupos 1ra ronda,2,3,0,2,1,1,2,-1,0,0
+2006,Túnez,24,grupos 1ra ronda,1,3,0,1,2,3,6,-3,0,0
+2006,Estados Unidos,25,grupos 1ra ronda,1,3,0,1,2,2,6,-4,0,0
+2006,Irán,26,grupos 1ra ronda,1,3,0,1,2,2,6,-4,0,0
+2006,Trinidad y Tobago,27,grupos 1ra ronda,1,3,0,1,2,0,4,-4,0,0
+2006,Arabia Saudita,28,grupos 1ra ronda,1,3,0,1,2,2,7,-5,0,0
+2006,Japón,29,grupos 1ra ronda,1,3,0,1,2,2,7,-5,0,0
+2006,Togo,30,grupos 1ra ronda,0,3,0,0,3,1,6,-5,0,0
+2006,Costa Rica,31,grupos 1ra ronda,0,3,0,0,3,3,9,-6,0,0
+2006,Serbia y Montenegro,32,grupos 1ra ronda,0,3,0,0,3,2,10,-8,0,0
+2010,España,1,final,18,7,6,0,1,8,2,6,1,0
+2010,Paises Bajos,2,final,18,7,6,0,1,12,6,6,0,1
+2010,Alemania,3,partido 3er puesto,15,7,5,0,2,16,5,11,0,0
+2010,Uruguay,4,partido 3er puesto,11,7,3,2,2,11,8,3,0,0
+2010,Argentina,5,cuartos de final,12,5,4,0,1,10,6,4,0,0
+2010,Brasil,6,cuartos de final,10,5,3,1,1,9,4,5,0,0
+2010,Ghana,7,cuartos de final,8,5,2,2,1,5,4,1,0,0
+2010,Paraguay,8,cuartos de final,6,5,1,3,1,3,2,1,0,0
+2010,Japón,9,octavos de final,7,4,2,1,1,4,2,2,0,0
+2010,Chile,10,octavos de final,6,4,2,0,2,3,5,-2,0,0
+2010,Portugal,11,octavos de final,5,4,1,2,1,7,1,6,0,0
+2010,Estados Unidos,12,octavos de final,5,4,1,2,1,5,5,0,0,0
+2010,Inglaterra,13,octavos de final,5,4,1,2,1,3,5,-2,0,0
+2010,México,14,octavos de final,4,4,1,1,2,4,5,-1,0,0
+2010,Corea del Sur,15,octavos de final,4,4,1,1,2,6,8,-2,0,0
+2010,Eslovaquia,16,octavos de final,4,4,1,1,2,5,7,-2,0,0
+2010,Costa de Marfil,17,grupos 1ra ronda,4,3,1,1,1,4,3,1,0,0
+2010,Eslovenia,18,grupos 1ra ronda,4,3,1,1,1,3,3,0,0,0
+2010,Suiza,19,grupos 1ra ronda,4,3,1,1,1,1,1,0,0,0
+2010,Sudáfrica,20,grupos 1ra ronda,4,3,1,1,1,3,5,-2,0,0
+2010,Australia,21,grupos 1ra ronda,4,3,1,1,1,3,6,-3,0,0
+2010,Nueva Zelanda,22,grupos 1ra ronda,3,3,0,3,0,2,2,0,0,0
+2010,Serbia,23,grupos 1ra ronda,3,3,1,0,2,2,3,-1,0,0
+2010,Dinamarca,24,grupos 1ra ronda,3,3,1,0,2,3,6,-3,0,0
+2010,Grecia,25,grupos 1ra ronda,3,3,1,0,2,2,5,-3,0,0
+2010,Italia,26,grupos 1ra ronda,2,3,0,2,1,4,5,-1,0,0
+2010,Nigeria,27,grupos 1ra ronda,1,3,0,1,2,3,5,-2,0,0
+2010,Argelia,28,grupos 1ra ronda,1,3,0,1,2,0,2,-2,0,0
+2010,Francia,29,grupos 1ra ronda,1,3,0,1,2,1,4,-3,0,0
+2010,Honduras,30,grupos 1ra ronda,1,3,0,1,2,0,3,-3,0,0
+2010,Camerún,31,grupos 1ra ronda,0,3,0,0,3,2,5,-3,0,0
+2010,Corea del Norte,32,grupos 1ra ronda,0,3,0,0,3,1,12,-11,0,0
+2014,Alemania,1,final,19,7,6,1,0,18,4,14,1,0
+2014,Argentina,2,final,16,7,5,1,1,8,4,4,0,1
+2014,Paises Bajos,3,partido 3er puesto,17,7,5,2,0,15,4,11,0,0
+2014,Brasil,4,partido 3er puesto,11,7,3,2,2,11,14,-3,0,0
+2014,Colombia,5,cuartos de final,12,5,4,0,1,12,4,8,0,0
+2014,Bélgica,6,cuartos de final,12,5,4,0,1,6,3,3,0,0
+2014,Francia,7,cuartos de final,10,5,3,1,1,10,3,7,0,0
+2014,Costa Rica,8,cuartos de final,9,5,2,3,0,5,2,3,0,0
+2014,Chile,9,octavos de final,7,4,2,1,1,6,4,2,0,0
+2014,México,10,octavos de final,7,4,2,1,1,5,3,2,0,0
+2014,Suiza,11,octavos de final,6,4,2,0,2,7,7,0,0,0
+2014,Uruguay,12,octavos de final,6,4,2,0,2,4,6,-2,0,0
+2014,Grecia,13,octavos de final,5,4,1,2,1,3,5,-2,0,0
+2014,Argelia,14,octavos de final,4,4,1,1,2,7,7,0,0,0
+2014,Estados Unidos,15,octavos de final,4,4,1,1,2,5,6,-1,0,0
+2014,Nigeria,16,octavos de final,4,4,1,1,2,3,5,-2,0,0
+2014,Ecuador,17,grupos 1ra ronda,4,3,1,1,1,3,3,0,0,0
+2014,Portugal,18,grupos 1ra ronda,4,3,1,1,1,4,7,-3,0,0
+2014,Croacia,19,grupos 1ra ronda,3,3,1,0,2,6,6,0,0,0
+2014,Bosnia-Herzegovina,20,grupos 1ra ronda,3,3,1,0,2,4,4,0,0,0
+2014,Costa de Marfil,21,grupos 1ra ronda,3,3,1,0,2,4,5,-1,0,0
+2014,Italia,22,grupos 1ra ronda,3,3,1,0,2,2,3,-1,0,0
+2014,España,23,grupos 1ra ronda,3,3,1,0,2,4,7,-3,0,0
+2014,Rusia,24,grupos 1ra ronda,2,3,0,2,1,2,3,-1,0,0
+2014,Ghana,25,grupos 1ra ronda,1,3,0,1,2,4,6,-2,0,0
+2014,Inglaterra,26,grupos 1ra ronda,1,3,0,1,2,2,4,-2,0,0
+2014,Corea del Sur,27,grupos 1ra ronda,1,3,0,1,2,3,6,-3,0,0
+2014,Irán,28,grupos 1ra ronda,1,3,0,1,2,1,4,-3,0,0
+2014,Japón,29,grupos 1ra ronda,1,3,0,1,2,2,6,-4,0,0
+2014,Australia,30,grupos 1ra ronda,0,3,0,0,3,3,9,-6,0,0
+2014,Honduras,31,grupos 1ra ronda,0,3,0,0,3,1,8,-7,0,0
+2014,Camerún,32,grupos 1ra ronda,0,3,0,0,3,1,9,-8,0,0
+2018,Francia,1,final,19,7,6,1,0,14,6,8,1,0
+2018,Croacia,2,final,14,7,4,2,1,14,9,5,0,1
+2018,Bélgica,3,partido 3er puesto,18,7,6,0,1,16,6,10,0,0
+2018,Inglaterra,4,partido 3er puesto,10,7,3,1,3,12,8,4,0,0
+2018,Uruguay,5,cuartos de final,12,5,4,0,1,7,3,4,0,0
+2018,Brasil,6,cuartos de final,10,5,3,1,1,8,3,5,0,0
+2018,Suecia,7,cuartos de final,9,5,3,0,2,6,4,2,0,0
+2018,Rusia,8,cuartos de final,8,5,2,2,1,11,7,4,0,0
+2018,Colombia,9,octavos de final,7,4,2,1,1,6,3,3,0,0
+2018,España,10,octavos de final,6,4,1,3,0,7,6,1,0,0
+2018,Dinamarca,11,octavos de final,6,4,1,3,0,3,2,1,0,0
+2018,México,12,octavos de final,6,4,2,0,2,3,6,-3,0,0
+2018,Portugal,13,octavos de final,5,4,1,2,1,6,6,0,0,0
+2018,Suiza,14,octavos de final,5,4,1,2,1,5,5,0,0,0
+2018,Japón,15,octavos de final,4,4,1,1,2,6,7,-1,0,0
+2018,Argentina,16,octavos de final,4,4,1,1,2,6,9,-3,0,0
+2018,Senegal,17,grupos 1ra ronda,4,3,1,1,1,4,4,0,0,0
+2018,Irán,18,grupos 1ra ronda,4,3,1,1,1,2,2,0,0,0
+2018,Corea del Sur,19,grupos 1ra ronda,3,3,1,0,2,3,3,0,0,0
+2018,Perú,20,grupos 1ra ronda,3,3,1,0,2,2,2,0,0,0
+2018,Nigeria,21,grupos 1ra ronda,3,3,1,0,2,3,4,-1,0,0
+2018,Alemania,22,grupos 1ra ronda,3,3,1,0,2,2,4,-2,0,0
+2018,Serbia,23,grupos 1ra ronda,3,3,1,0,2,2,4,-2,0,0
+2018,Túnez,24,grupos 1ra ronda,3,3,1,0,2,5,8,-3,0,0
+2018,Polonia,25,grupos 1ra ronda,3,3,1,0,2,2,5,-3,0,0
+2018,Arabia Saudita,26,grupos 1ra ronda,3,3,1,0,2,2,7,-5,0,0
+2018,Marruecos,27,grupos 1ra ronda,1,3,0,1,2,2,4,-2,0,0
+2018,Islandia,28,grupos 1ra ronda,1,3,0,1,2,2,5,-3,0,0
+2018,Costa Rica,29,grupos 1ra ronda,1,3,0,1,2,2,5,-3,0,0
+2018,Australia,30,grupos 1ra ronda,1,3,0,1,2,2,5,-3,0,0
+2018,Egipto,31,grupos 1ra ronda,0,3,0,0,3,2,6,-4,0,0
+2018,Panamá,32,grupos 1ra ronda,0,3,0,0,3,2,11,-9,0,0
+2022,Argentina,1,final,14,7,4,2,1,15,8,7,1,0
+2022,Francia,2,final,16,7,5,1,1,16,8,8,0,1
+2022,Croacia,3,partido 3er puesto,10,7,2,4,1,8,7,1,0,0
+2022,Marruecos,4,partido 3er puesto,11,7,3,2,2,6,5,1,0,0
+2022,Paises Bajos,5,cuartos de final,11,5,3,2,0,10,4,6,0,0
+2022,Inglaterra,6,cuartos de final,10,5,3,1,1,13,4,9,0,0
+2022,Brasil,7,cuartos de final,10,5,3,1,1,8,3,5,0,0
+2022,Portugal,8,cuartos de final,9,5,3,0,2,12,6,6,0,0
+2022,Japón,9,octavos de final,7,4,2,1,1,5,4,1,0,0
+2022,Senegal,10,octavos de final,6,4,2,0,2,5,7,-2,0,0
+2022,Australia,11,octavos de final,6,4,2,0,2,4,6,-2,0,0
+2022,Suiza,12,octavos de final,6,4,2,0,2,5,9,-4,0,0
+2022,España,13,octavos de final,5,4,1,2,1,9,3,6,0,0
+2022,Estados Unidos,14,octavos de final,5,4,1,2,1,3,4,-1,0,0
+2022,Polonia,15,octavos de final,4,4,1,1,2,3,5,-2,0,0
+2022,Corea del Sur,16,octavos de final,4,4,1,1,2,5,8,-3,0,0
+2022,Alemania,17,grupos 1ra ronda,4,3,1,1,1,6,5,1,0,0
+2022,Ecuador,18,grupos 1ra ronda,4,3,1,1,1,4,3,1,0,0
+2022,Camerún,19,grupos 1ra ronda,4,3,1,1,1,4,4,0,0,0
+2022,Uruguay,20,grupos 1ra ronda,4,3,1,1,1,2,2,0,0,0
+2022,Túnez,21,grupos 1ra ronda,4,3,1,1,1,1,1,0,0,0
+2022,México,22,grupos 1ra ronda,4,3,1,1,1,2,3,-1,0,0
+2022,Bélgica,23,grupos 1ra ronda,4,3,1,1,1,1,2,-1,0,0
+2022,Ghana,24,grupos 1ra ronda,3,3,1,0,2,5,7,-2,0,0
+2022,Arabia Saudita,25,grupos 1ra ronda,3,3,1,0,2,3,5,-2,0,0
+2022,Irán,26,grupos 1ra ronda,3,3,1,0,2,4,7,-3,0,0
+2022,Costa Rica,27,grupos 1ra ronda,3,3,1,0,2,3,11,-8,0,0
+2022,Dinamarca,28,grupos 1ra ronda,1,3,0,1,2,1,3,-2,0,0
+2022,Serbia,29,grupos 1ra ronda,1,3,0,1,2,5,8,-3,0,0
+2022,Gales,30,grupos 1ra ronda,1,3,0,1,2,1,6,-5,0,0
+2022,Canadá,31,grupos 1ra ronda,0,3,0,0,3,2,7,-5,0,0
+2022,Catar,32,grupos 1ra ronda,0,3,0,0,3,1,7,-6,0,0

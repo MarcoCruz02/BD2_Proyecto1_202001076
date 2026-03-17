@@ -1,0 +1,491 @@
+anio_mundial,nombre_grupo,nombre_pais,posicion_grupo,pts,pj,pg,pe,pp,gf,gc,dif,clasifico
+1930,Grupo 1,Argentina,1,6,3,3,0,0,10,4,6,1
+1930,Grupo 1,Chile,2,4,3,2,0,1,5,3,2,0
+1930,Grupo 1,Francia,3,2,3,1,0,2,4,3,1,0
+1930,Grupo 1,México,4,0,3,0,0,3,4,13,-9,0
+1930,Grupo 2,Yugoslavia,1,4,2,2,0,0,6,1,5,1
+1930,Grupo 2,Brasil,2,2,2,1,0,1,5,2,3,0
+1930,Grupo 2,Bolivia,3,0,2,0,0,2,0,8,-8,0
+1930,Grupo 3,Uruguay,1,4,2,2,0,0,5,0,5,1
+1930,Grupo 3,Rumania,2,2,2,1,0,1,3,5,-2,0
+1930,Grupo 3,Perú,3,0,2,0,0,2,1,4,-3,0
+1930,Grupo 4,Estados Unidos,1,4,2,2,0,0,6,0,6,1
+1930,Grupo 4,Paraguay,2,2,2,1,0,1,1,3,-2,0
+1930,Grupo 4,Bélgica,3,0,2,0,0,2,0,4,-4,0
+1950,Grupo 1,Brasil,1,5,3,2,1,0,8,2,6,1
+1950,Grupo 1,Yugoslavia,2,4,3,2,0,1,7,3,4,0
+1950,Grupo 1,Suiza,3,3,3,1,1,1,4,6,-2,0
+1950,Grupo 1,México,4,0,3,0,0,3,2,10,-8,0
+1950,Grupo 2,España,1,6,3,3,0,0,6,1,5,1
+1950,Grupo 2,Inglaterra,2,2,3,1,0,2,2,2,0,0
+1950,Grupo 2,Chile,3,2,3,1,0,2,5,6,-1,0
+1950,Grupo 2,Estados Unidos,4,2,3,1,0,2,4,8,-4,0
+1950,Grupo 3,Suecia,1,3,2,1,1,0,5,4,1,1
+1950,Grupo 3,Italia,2,2,2,1,0,1,4,3,1,0
+1950,Grupo 3,Paraguay,3,1,2,0,1,1,2,4,-2,0
+1950,Grupo 4,Uruguay,1,2,1,1,0,0,8,0,8,1
+1950,Grupo 4,Bolivia,2,0,1,0,0,1,0,8,-8,0
+1950,Grupo Final,Uruguay,1,5,3,2,1,0,7,5,2,1
+1950,Grupo Final,Brasil,2,4,3,2,0,1,14,4,10,0
+1950,Grupo Final,Suecia,3,2,3,1,0,2,6,11,-5,0
+1950,Grupo Final,España,4,1,3,0,1,2,4,11,-7,0
+1954,Grupo 1,Brasil,1,3,2,1,1,0,6,1,5,1
+1954,Grupo 1,Yugoslavia,2,3,2,1,1,0,2,1,1,1
+1954,Grupo 1,Francia,3,2,2,1,0,1,3,3,0,0
+1954,Grupo 1,México,4,0,2,0,0,2,2,8,-6,0
+1954,Grupo 2,Hungría,1,4,2,2,0,0,17,3,14,1
+1954,Grupo 2,Alemania Occidental,2,2,2,1,0,1,7,9,-2,1
+1954,Grupo 2,Turquía,3,2,2,1,0,1,8,4,4,0
+1954,Grupo 2,Corea del Sur,4,0,2,0,0,2,0,16,-16,0
+1954,Grupo 3,Uruguay,1,4,2,2,0,0,9,0,9,1
+1954,Grupo 3,Austria,2,4,2,2,0,0,6,0,6,1
+1954,Grupo 3,Checoslovaquia,3,0,2,0,0,2,0,7,-7,0
+1954,Grupo 3,Escocia,4,0,2,0,0,2,0,8,-8,0
+1954,Grupo 4,Inglaterra,1,3,2,1,1,0,6,4,2,1
+1954,Grupo 4,Suiza,2,2,2,1,0,1,2,3,-1,1
+1954,Grupo 4,Italia,3,2,2,1,0,1,5,3,2,0
+1954,Grupo 4,Bélgica,4,1,2,0,1,1,5,8,-3,0
+1958,Grupo 1,Alemania Occidental,1,4,3,1,2,0,7,5,2,1
+1958,Grupo 1,Irlanda del Norte,2,3,3,1,1,1,4,5,-1,1
+1958,Grupo 1,Checoslovaquia,3,3,3,1,1,1,8,4,4,0
+1958,Grupo 1,Argentina,4,2,3,1,0,2,5,10,-5,0
+1958,Grupo 2,Francia,1,4,3,2,0,1,11,7,4,1
+1958,Grupo 2,Yugoslavia,2,4,3,1,2,0,7,6,1,1
+1958,Grupo 2,Paraguay,3,3,3,1,1,1,9,12,-3,0
+1958,Grupo 2,Escocia,4,1,3,0,1,2,4,6,-2,0
+1958,Grupo 3,Suecia,1,5,3,2,1,0,5,1,4,1
+1958,Grupo 3,Gales,2,3,3,0,3,0,2,2,0,1
+1958,Grupo 3,Hungría,3,3,3,1,1,1,6,3,3,0
+1958,Grupo 3,México,4,1,3,0,1,2,1,8,-7,0
+1958,Grupo 4,Brasil,1,5,3,2,1,0,5,0,5,1
+1958,Grupo 4,URSS,2,3,3,1,1,1,4,4,0,1
+1958,Grupo 4,Inglaterra,3,3,3,0,3,0,4,4,0,0
+1958,Grupo 4,Austria,4,1,3,0,1,2,2,7,-5,0
+1962,Grupo 1,URSS,1,5,3,2,1,0,8,5,3,1
+1962,Grupo 1,Yugoslavia,2,4,3,2,0,1,8,3,5,1
+1962,Grupo 1,Uruguay,3,2,3,1,0,2,4,6,-2,0
+1962,Grupo 1,Colombia,4,1,3,0,1,2,5,11,-6,0
+1962,Grupo 2,Alemania Occidental,1,5,3,2,1,0,4,1,3,1
+1962,Grupo 2,Chile,2,4,3,2,0,1,5,3,2,1
+1962,Grupo 2,Italia,3,3,3,1,1,1,3,2,1,0
+1962,Grupo 2,Suiza,4,0,3,0,0,3,2,8,-6,0
+1962,Grupo 3,Brasil,1,5,3,2,1,0,4,1,3,1
+1962,Grupo 3,Checoslovaquia,2,3,3,1,1,1,2,3,-1,1
+1962,Grupo 3,México,3,2,3,1,0,2,3,4,-1,0
+1962,Grupo 3,España,4,2,3,1,0,2,2,3,-1,0
+1962,Grupo 4,Hungría,1,5,3,2,1,0,8,2,6,1
+1962,Grupo 4,Inglaterra,2,3,3,1,1,1,4,3,1,1
+1962,Grupo 4,Argentina,3,3,3,1,1,1,2,3,-1,0
+1962,Grupo 4,Bulgaria,4,1,3,0,1,2,1,7,-6,0
+1966,Grupo 1,Inglaterra,1,5,3,2,1,0,4,0,4,1
+1966,Grupo 1,Uruguay,2,4,3,1,2,0,2,1,1,1
+1966,Grupo 1,México,3,2,3,0,2,1,1,3,-2,0
+1966,Grupo 1,Francia,4,1,3,0,1,2,2,5,-3,0
+1966,Grupo 2,Alemania Occidental,1,5,3,2,1,0,7,1,6,1
+1966,Grupo 2,Argentina,2,5,3,2,1,0,4,1,3,1
+1966,Grupo 2,España,3,2,3,1,0,2,4,5,-1,0
+1966,Grupo 2,Suiza,4,0,3,0,0,3,1,9,-8,0
+1966,Grupo 3,Portugal,1,6,3,3,0,0,9,2,7,1
+1966,Grupo 3,Hungría,2,4,3,2,0,1,7,5,2,1
+1966,Grupo 3,Brasil,3,2,3,1,0,2,4,6,-2,0
+1966,Grupo 3,Bulgaria,4,0,3,0,0,3,1,8,-7,0
+1966,Grupo 4,URSS,1,6,3,3,0,0,6,1,5,1
+1966,Grupo 4,Corea del Norte,2,3,3,1,1,1,2,4,-2,1
+1966,Grupo 4,Italia,3,2,3,1,0,2,2,2,0,0
+1966,Grupo 4,Chile,4,1,3,0,1,2,2,5,-3,0
+1970,Grupo 1,URSS,1,5,3,2,1,0,6,1,5,1
+1970,Grupo 1,México,2,5,3,2,1,0,5,0,5,1
+1970,Grupo 1,Bélgica,3,2,3,1,0,2,4,5,-1,0
+1970,Grupo 1,El Salvador,4,0,3,0,0,3,0,9,-9,0
+1970,Grupo 2,Italia,1,4,3,1,2,0,1,0,1,1
+1970,Grupo 2,Uruguay,2,3,3,1,1,1,2,1,1,1
+1970,Grupo 2,Suecia,3,3,3,1,1,1,2,2,0,0
+1970,Grupo 2,Israel,4,2,3,0,2,1,1,3,-2,0
+1970,Grupo 3,Brasil,1,6,3,3,0,0,8,3,5,1
+1970,Grupo 3,Inglaterra,2,4,3,2,0,1,2,1,1,1
+1970,Grupo 3,Rumania,3,2,3,1,0,2,4,5,-1,0
+1970,Grupo 3,Checoslovaquia,4,0,3,0,0,3,2,7,-5,0
+1970,Grupo 4,Alemania Occidental,1,6,3,3,0,0,10,4,6,1
+1970,Grupo 4,Perú,2,4,3,2,0,1,7,5,2,1
+1970,Grupo 4,Bulgaria,3,1,3,0,1,2,5,9,-4,0
+1970,Grupo 4,Marruecos,4,1,3,0,1,2,2,6,-4,0
+1974,Grupo 1,Alemania Oriental,1,5,3,2,1,0,4,1,3,1
+1974,Grupo 1,Alemania Occidental,2,4,3,2,0,1,4,1,3,1
+1974,Grupo 1,Chile,3,2,3,0,2,1,1,2,-1,0
+1974,Grupo 1,Australia,4,1,3,0,1,2,0,5,-5,0
+1974,Grupo 2,Yugoslavia,1,4,3,1,2,0,10,1,9,1
+1974,Grupo 2,Brasil,2,4,3,1,2,0,3,0,3,1
+1974,Grupo 2,Escocia,3,4,3,1,2,0,3,1,2,0
+1974,Grupo 2,Zaire,4,0,3,0,0,3,0,14,-14,0
+1974,Grupo 3,Países Bajos,1,5,3,2,1,0,6,1,5,1
+1974,Grupo 3,Suecia,2,4,3,1,2,0,3,0,3,1
+1974,Grupo 3,Bulgaria,3,2,3,0,2,1,2,5,-3,0
+1974,Grupo 3,Uruguay,4,1,3,0,1,2,1,6,-5,0
+1974,Grupo 4,Polonia,1,6,3,3,0,0,12,3,9,1
+1974,Grupo 4,Argentina,2,3,3,1,1,1,7,5,2,1
+1974,Grupo 4,Italia,3,3,3,1,1,1,5,4,1,0
+1974,Grupo 4,Haití,4,0,3,0,0,3,2,14,-12,0
+1974,Grupo A,Países Bajos,1,6,3,3,0,0,8,0,8,1
+1974,Grupo A,Brasil,2,4,3,2,0,1,3,3,0,1
+1974,Grupo A,Alemania Oriental,3,1,3,0,1,2,1,4,-3,0
+1974,Grupo A,Argentina,4,1,3,0,1,2,2,7,-5,0
+1974,Grupo B,Alemania Occidental,1,6,3,3,0,0,7,2,5,1
+1974,Grupo B,Polonia,2,4,3,2,0,1,3,2,1,1
+1974,Grupo B,Suecia,3,2,3,1,0,2,4,6,-2,0
+1974,Grupo B,Yugoslavia,4,0,3,0,0,3,2,6,-4,0
+1978,Grupo 1,Italia,1,6,3,3,0,0,6,2,4,1
+1978,Grupo 1,Argentina,2,4,3,2,0,1,4,3,1,1
+1978,Grupo 1,Francia,3,2,3,1,0,2,5,5,0,0
+1978,Grupo 1,Hungría,4,0,3,0,0,3,3,8,-5,0
+1978,Grupo 2,Polonia,1,5,3,2,1,0,4,1,3,1
+1978,Grupo 2,Alemania Occidental,2,4,3,1,2,0,6,0,6,1
+1978,Grupo 2,Túnez,3,3,3,1,1,1,3,2,1,0
+1978,Grupo 2,México,4,0,3,0,0,3,2,12,-10,0
+1978,Grupo 3,Austria,1,4,3,2,0,1,3,2,1,1
+1978,Grupo 3,Brasil,2,4,3,1,2,0,2,1,1,1
+1978,Grupo 3,España,3,3,3,1,1,1,2,2,0,0
+1978,Grupo 3,Suecia,4,1,3,0,1,2,1,3,-2,0
+1978,Grupo 4,Perú,1,5,3,2,1,0,7,2,5,1
+1978,Grupo 4,Países Bajos,2,3,3,1,1,1,5,3,2,1
+1978,Grupo 4,Escocia,3,3,3,1,1,1,5,6,-1,0
+1978,Grupo 4,Irán,4,1,3,0,1,2,2,8,-6,0
+1978,Grupo A,Países Bajos,1,5,3,2,1,0,9,4,5,1
+1978,Grupo A,Italia,2,3,3,1,1,1,2,2,0,1
+1978,Grupo A,Alemania Occidental,3,2,3,0,2,1,4,5,-1,0
+1978,Grupo A,Austria,4,2,3,1,0,2,4,8,-4,0
+1978,Grupo B,Argentina,1,5,3,2,1,0,8,0,8,1
+1978,Grupo B,Brasil,2,5,3,2,1,0,6,1,5,1
+1978,Grupo B,Polonia,3,2,3,1,0,2,2,5,-3,0
+1978,Grupo B,Perú,4,0,3,0,0,3,0,10,-10,0
+1982,Grupo A,Polonia,1,4,3,1,2,0,5,1,4,1
+1982,Grupo A,Italia,2,3,3,0,3,0,2,2,0,1
+1982,Grupo A,Camerún,3,3,3,0,3,0,1,1,0,0
+1982,Grupo A,Perú,4,2,3,0,2,1,2,6,-4,0
+1982,Grupo B,Alemania Occidental,1,4,3,2,0,1,6,3,3,1
+1982,Grupo B,Austria,2,4,3,2,0,1,3,1,2,1
+1982,Grupo B,Argelia,3,4,3,2,0,1,5,5,0,0
+1982,Grupo B,Chile,4,0,3,0,0,3,3,8,-5,0
+1982,Grupo C,Bélgica,1,5,3,2,1,0,3,1,2,1
+1982,Grupo C,Argentina,2,4,3,2,0,1,6,2,4,1
+1982,Grupo C,Hungría,3,3,3,1,1,1,12,6,6,0
+1982,Grupo C,El Salvador,4,0,3,0,0,3,1,13,-12,0
+1982,Grupo D,Inglaterra,1,6,3,3,0,0,6,1,5,1
+1982,Grupo D,Francia,2,3,3,1,1,1,6,5,1,1
+1982,Grupo D,Checoslovaquia,3,2,3,0,2,1,2,4,-2,0
+1982,Grupo D,Kuwait,4,1,3,0,1,2,2,6,-4,0
+1982,Grupo E,Irlanda del Norte,1,4,3,1,2,0,2,1,1,1
+1982,Grupo E,España,2,3,3,1,1,1,3,3,0,1
+1982,Grupo E,Yugoslavia,3,3,3,1,1,1,2,2,0,0
+1982,Grupo E,Honduras,4,2,3,0,2,1,2,3,-1,0
+1982,Grupo F,Brasil,1,6,3,3,0,0,10,2,8,1
+1982,Grupo F,URSS,2,3,3,1,1,1,6,4,2,1
+1982,Grupo F,Escocia,3,3,3,1,1,1,8,8,0,0
+1982,Grupo F,Nueva Zelanda,4,0,3,0,0,3,2,12,-10,0
+1982,Grupo 1,Polonia,1,3,2,1,1,0,3,0,3,1
+1982,Grupo 1,URSS,2,3,2,1,1,0,1,0,1,0
+1982,Grupo 1,Bélgica,3,0,2,0,0,2,0,4,-4,0
+1982,Grupo 2,Alemania Occidental,1,3,2,1,1,0,2,1,1,1
+1982,Grupo 2,Inglaterra,2,2,2,0,2,0,0,0,0,0
+1982,Grupo 2,España,3,1,2,0,1,1,1,2,-1,0
+1982,Grupo 3,Italia,1,4,2,2,0,0,5,3,2,1
+1982,Grupo 3,Brasil,2,2,2,1,0,1,5,4,1,0
+1982,Grupo 3,Argentina,3,0,2,0,0,2,2,5,-3,0
+1982,Grupo 4,Francia,1,4,2,2,0,0,5,1,4,1
+1982,Grupo 4,Austria,2,1,2,0,1,1,2,3,-1,0
+1982,Grupo 4,Irlanda del Norte,3,1,2,0,1,1,3,6,-3,0
+1986,Grupo A,Argentina,1,5,3,2,1,0,6,2,4,1
+1986,Grupo A,Italia,2,4,3,1,2,0,5,4,1,1
+1986,Grupo A,Bulgaria,3,2,3,0,2,1,2,4,-2,1
+1986,Grupo A,Corea del Sur,4,1,3,0,1,2,4,7,-3,0
+1986,Grupo B,México,1,5,3,2,1,0,4,2,2,1
+1986,Grupo B,Paraguay,2,4,3,1,2,0,4,3,1,1
+1986,Grupo B,Bélgica,3,3,3,1,1,1,5,5,0,1
+1986,Grupo B,Iraq,4,0,3,0,0,3,1,4,-3,0
+1986,Grupo C,URSS,1,5,3,2,1,0,9,1,8,1
+1986,Grupo C,Francia,2,5,3,2,1,0,5,1,4,1
+1986,Grupo C,Hungría,3,2,3,1,0,2,2,9,-7,0
+1986,Grupo C,Canadá,4,0,3,0,0,3,0,5,-5,0
+1986,Grupo D,Brasil,1,6,3,3,0,0,5,0,5,1
+1986,Grupo D,España,2,4,3,2,0,1,5,2,3,1
+1986,Grupo D,Irlanda del Norte,3,1,3,0,1,2,2,6,-4,0
+1986,Grupo D,Argelia,4,1,3,0,1,2,1,5,-4,0
+1986,Grupo E,Dinamarca,1,6,3,3,0,0,9,1,8,1
+1986,Grupo E,Alemania Occidental,2,3,3,1,1,1,3,4,-1,1
+1986,Grupo E,Uruguay,3,2,3,0,2,1,2,7,-5,1
+1986,Grupo E,Escocia,4,1,3,0,1,2,1,3,-2,0
+1986,Grupo F,Marruecos,1,4,3,1,2,0,3,1,2,1
+1986,Grupo F,Inglaterra,2,3,3,1,1,1,3,1,2,1
+1986,Grupo F,Polonia,3,3,3,1,1,1,1,3,-2,1
+1986,Grupo F,Portugal,4,2,3,1,0,2,2,4,-2,0
+1990,Grupo A,Italia,1,6,3,3,0,0,4,0,4,1
+1990,Grupo A,Checoslovaquia,2,4,3,2,0,1,6,3,3,1
+1990,Grupo A,Austria,3,2,3,1,0,2,2,3,-1,0
+1990,Grupo A,Estados Unidos,4,0,3,0,0,3,2,8,-6,0
+1990,Grupo B,Camerún,1,4,3,2,0,1,3,5,-2,1
+1990,Grupo B,Rumania,2,3,3,1,1,1,4,3,1,1
+1990,Grupo B,Argentina,3,3,3,1,1,1,3,2,1,1
+1990,Grupo B,URSS,4,2,3,1,0,2,4,4,0,0
+1990,Grupo C,Brasil,1,6,3,3,0,0,4,1,3,1
+1990,Grupo C,Costa Rica,2,4,3,2,0,1,3,2,1,1
+1990,Grupo C,Escocia,3,2,3,1,0,2,2,3,-1,0
+1990,Grupo C,Suecia,4,0,3,0,0,3,3,6,-3,0
+1990,Grupo D,Alemania Occidental,1,5,3,2,1,0,10,3,7,1
+1990,Grupo D,Yugoslavia,2,4,3,2,0,1,6,5,1,1
+1990,Grupo D,Colombia,3,3,3,1,1,1,3,2,1,1
+1990,Grupo D,Emiratos Arabes,4,0,3,0,0,3,2,11,-9,0
+1990,Grupo E,España,1,5,3,2,1,0,5,2,3,1
+1990,Grupo E,Bélgica,2,4,3,2,0,1,6,3,3,1
+1990,Grupo E,Uruguay,3,3,3,1,1,1,2,3,-1,1
+1990,Grupo E,Corea del Sur,4,0,3,0,0,3,1,6,-5,0
+1990,Grupo F,Inglaterra,1,4,3,1,2,0,2,1,1,1
+1990,Grupo F,Irlanda,2,3,3,0,3,0,2,2,0,1
+1990,Grupo F,Países Bajos,3,3,3,0,3,0,2,2,0,1
+1990,Grupo F,Egipto,4,2,3,0,2,1,1,2,-1,0
+1994,Grupo A,Rumania,1,6,3,2,0,1,5,5,0,1
+1994,Grupo A,Suiza,2,4,3,1,1,1,5,4,1,1
+1994,Grupo A,Estados Unidos,3,4,3,1,1,1,3,3,0,1
+1994,Grupo A,Colombia,4,3,3,1,0,2,4,5,-1,0
+1994,Grupo B,Brasil,1,7,3,2,1,0,6,1,5,1
+1994,Grupo B,Suecia,2,5,3,1,2,0,6,4,2,1
+1994,Grupo B,Rusia,3,3,3,1,0,2,7,6,1,0
+1994,Grupo B,Camerún,4,1,3,0,1,2,3,11,-8,0
+1994,Grupo C,Alemania,1,7,3,2,1,0,5,3,2,1
+1994,Grupo C,España,2,5,3,1,2,0,6,4,2,1
+1994,Grupo C,Corea del Sur,3,2,3,0,2,1,4,5,-1,0
+1994,Grupo C,Bolivia,4,1,3,0,1,2,1,4,-3,0
+1994,Grupo D,Nigeria,1,6,3,2,0,1,6,2,4,1
+1994,Grupo D,Bulgaria,2,6,3,2,0,1,6,3,3,1
+1994,Grupo D,Argentina,3,6,3,2,0,1,6,3,3,1
+1994,Grupo D,Grecia,4,0,3,0,0,3,0,10,-10,0
+1994,Grupo E,México,1,4,3,1,1,1,3,3,0,1
+1994,Grupo E,Irlanda,2,4,3,1,1,1,2,2,0,1
+1994,Grupo E,Italia,3,4,3,1,1,1,2,2,0,1
+1994,Grupo E,Noruega,4,4,3,1,1,1,1,1,0,0
+1994,Grupo F,Países Bajos,1,6,3,2,0,1,4,3,1,1
+1994,Grupo F,Arabia Saudita,2,6,3,2,0,1,4,3,1,1
+1994,Grupo F,Bélgica,3,6,3,2,0,1,2,1,1,1
+1994,Grupo F,Marruecos,4,0,3,0,0,3,2,5,-3,0
+1998,Grupo A,Brasil,1,6,3,2,0,1,6,3,3,1
+1998,Grupo A,Noruega,2,5,3,1,2,0,5,4,1,1
+1998,Grupo A,Marruecos,3,4,3,1,1,1,5,5,0,0
+1998,Grupo A,Escocia,4,1,3,0,1,2,2,6,-4,0
+1998,Grupo B,Italia,1,7,3,2,1,0,7,3,4,1
+1998,Grupo B,Chile,2,3,3,0,3,0,4,4,0,1
+1998,Grupo B,Austria,3,2,3,0,2,1,3,4,-1,0
+1998,Grupo B,Camerún,4,2,3,0,2,1,2,5,-3,0
+1998,Grupo C,Francia,1,9,3,3,0,0,9,1,8,1
+1998,Grupo C,Dinamarca,2,4,3,1,1,1,3,3,0,1
+1998,Grupo C,Sudáfrica,3,2,3,0,2,1,3,6,-3,0
+1998,Grupo C,Arabia Saudita,4,1,3,0,1,2,2,7,-5,0
+1998,Grupo D,Nigeria,1,6,3,2,0,1,5,5,0,1
+1998,Grupo D,Paraguay,2,5,3,1,2,0,3,1,2,1
+1998,Grupo D,España,3,4,3,1,1,1,8,4,4,0
+1998,Grupo D,Bulgaria,4,1,3,0,1,2,1,7,-6,0
+1998,Grupo E,Países Bajos,1,5,3,1,2,0,7,2,5,1
+1998,Grupo E,México,2,5,3,1,2,0,7,5,2,1
+1998,Grupo E,Bélgica,3,3,3,0,3,0,3,3,0,0
+1998,Grupo E,Corea del Sur,4,1,3,0,1,2,2,9,-7,0
+1998,Grupo F,Alemania,1,7,3,2,1,0,6,2,4,1
+1998,Grupo F,RF de Yugoslavia,2,7,3,2,1,0,4,2,2,1
+1998,Grupo F,Irán,3,3,3,1,0,2,2,4,-2,0
+1998,Grupo F,Estados Unidos,4,0,3,0,0,3,1,5,-4,0
+1998,Grupo G,Rumania,1,7,3,2,1,0,4,2,2,1
+1998,Grupo G,Inglaterra,2,6,3,2,0,1,5,2,3,1
+1998,Grupo G,Colombia,3,3,3,1,0,2,1,3,-2,0
+1998,Grupo G,Túnez,4,1,3,0,1,2,1,4,-3,0
+1998,Grupo H,Argentina,1,9,3,3,0,0,7,0,7,1
+1998,Grupo H,Croacia,2,6,3,2,0,1,4,2,2,1
+1998,Grupo H,Jamaica,3,3,3,1,0,2,3,9,-6,0
+1998,Grupo H,Japón,4,0,3,0,0,3,1,4,-3,0
+2002,Grupo A,Dinamarca,1,7,3,2,1,0,5,2,3,1
+2002,Grupo A,Senegal,2,5,3,1,2,0,5,4,1,1
+2002,Grupo A,Uruguay,3,2,3,0,2,1,4,5,-1,0
+2002,Grupo A,Francia,4,1,3,0,1,2,0,3,-3,0
+2002,Grupo B,España,1,9,3,3,0,0,9,4,5,1
+2002,Grupo B,Paraguay,2,4,3,1,1,1,6,6,0,1
+2002,Grupo B,Sudáfrica,3,4,3,1,1,1,5,5,0,0
+2002,Grupo B,Eslovenia,4,0,3,0,0,3,2,7,-5,0
+2002,Grupo C,Brasil,1,9,3,3,0,0,11,3,8,1
+2002,Grupo C,Turquía,2,4,3,1,1,1,5,3,2,1
+2002,Grupo C,Costa Rica,3,4,3,1,1,1,5,6,-1,0
+2002,Grupo C,China,4,0,3,0,0,3,0,9,-9,0
+2002,Grupo D,Corea del Sur,1,7,3,2,1,0,4,1,3,1
+2002,Grupo D,Estados Unidos,2,4,3,1,1,1,5,6,-1,1
+2002,Grupo D,Portugal,3,3,3,1,0,2,6,4,2,0
+2002,Grupo D,Polonia,4,3,3,1,0,2,3,7,-4,0
+2002,Grupo E,Alemania,1,7,3,2,1,0,11,1,10,1
+2002,Grupo E,Irlanda,2,5,3,1,2,0,5,2,3,1
+2002,Grupo E,Camerún,3,4,3,1,1,1,2,3,-1,0
+2002,Grupo E,Arabia Saudita,4,0,3,0,0,3,0,12,-12,0
+2002,Grupo F,Suecia,1,5,3,1,2,0,4,3,1,1
+2002,Grupo F,Inglaterra,2,5,3,1,2,0,2,1,1,1
+2002,Grupo F,Argentina,3,4,3,1,1,1,2,2,0,0
+2002,Grupo F,Nigeria,4,1,3,0,1,2,1,3,-2,0
+2002,Grupo G,México,1,7,3,2,1,0,4,2,2,1
+2002,Grupo G,Italia,2,4,3,1,1,1,4,3,1,1
+2002,Grupo G,Croacia,3,3,3,1,0,2,2,3,-1,0
+2002,Grupo G,Ecuador,4,3,3,1,0,2,2,4,-2,0
+2002,Grupo H,Japón,1,7,3,2,1,0,5,2,3,1
+2002,Grupo H,Bélgica,2,5,3,1,2,0,6,5,1,1
+2002,Grupo H,Rusia,3,3,3,1,0,2,4,4,0,0
+2002,Grupo H,Túnez,4,1,3,0,1,2,1,5,-4,0
+2006,Grupo A,Alemania,1,9,3,3,0,0,8,2,6,1
+2006,Grupo A,Ecuador,2,6,3,2,0,1,5,3,2,1
+2006,Grupo A,Polonia,3,3,3,1,0,2,2,4,-2,0
+2006,Grupo A,Costa Rica,4,0,3,0,0,3,3,9,-6,0
+2006,Grupo B,Inglaterra,1,7,3,2,1,0,5,2,3,1
+2006,Grupo B,Suecia,2,5,3,1,2,0,3,2,1,1
+2006,Grupo B,Paraguay,3,3,3,1,0,2,2,2,0,0
+2006,Grupo B,Trinidad y Tobago,4,1,3,0,1,2,0,4,-4,0
+2006,Grupo C,Argentina,1,7,3,2,1,0,8,1,7,1
+2006,Grupo C,Países Bajos,2,7,3,2,1,0,3,1,2,1
+2006,Grupo C,Costa de Marfil,3,3,3,1,0,2,5,6,-1,0
+2006,Grupo C,Serbia y Montenegro,4,0,3,0,0,3,2,10,-8,0
+2006,Grupo D,Portugal,1,9,3,3,0,0,5,1,4,1
+2006,Grupo D,México,2,4,3,1,1,1,4,3,1,1
+2006,Grupo D,Angola,3,2,3,0,2,1,1,2,-1,0
+2006,Grupo D,Irán,4,1,3,0,1,2,2,6,-4,0
+2006,Grupo E,Italia,1,7,3,2,1,0,5,1,4,1
+2006,Grupo E,Ghana,2,6,3,2,0,1,4,3,1,1
+2006,Grupo E,República Checa,3,3,3,1,0,2,3,4,-1,0
+2006,Grupo E,Estados Unidos,4,1,3,0,1,2,2,6,-4,0
+2006,Grupo F,Brasil,1,9,3,3,0,0,7,1,6,1
+2006,Grupo F,Australia,2,4,3,1,1,1,5,5,0,1
+2006,Grupo F,Croacia,3,2,3,0,2,1,2,3,-1,0
+2006,Grupo F,Japón,4,1,3,0,1,2,2,7,-5,0
+2006,Grupo G,Suiza,1,7,3,2,1,0,4,0,4,1
+2006,Grupo G,Francia,2,5,3,1,2,0,3,1,2,1
+2006,Grupo G,Corea del Sur,3,4,3,1,1,1,3,4,-1,0
+2006,Grupo G,Togo,4,0,3,0,0,3,1,6,-5,0
+2006,Grupo H,España,1,9,3,3,0,0,8,1,7,1
+2006,Grupo H,Ucrania,2,6,3,2,0,1,5,4,1,1
+2006,Grupo H,Túnez,3,1,3,0,1,2,3,6,-3,0
+2006,Grupo H,Arabia Saudita,4,1,3,0,1,2,2,7,-5,0
+2010,Grupo A,Uruguay,1,7,3,2,1,0,4,0,4,1
+2010,Grupo A,México,2,4,3,1,1,1,3,2,1,1
+2010,Grupo A,Sudáfrica,3,4,3,1,1,1,3,5,-2,0
+2010,Grupo A,Francia,4,1,3,0,1,2,1,4,-3,0
+2010,Grupo B,Argentina,1,9,3,3,0,0,7,1,6,1
+2010,Grupo B,Corea del Sur,2,4,3,1,1,1,5,6,-1,1
+2010,Grupo B,Grecia,3,3,3,1,0,2,2,5,-3,0
+2010,Grupo B,Nigeria,4,1,3,0,1,2,3,5,-2,0
+2010,Grupo C,Estados Unidos,1,5,3,1,2,0,4,3,1,1
+2010,Grupo C,Inglaterra,2,5,3,1,2,0,2,1,1,1
+2010,Grupo C,Eslovenia,3,4,3,1,1,1,3,3,0,0
+2010,Grupo C,Argelia,4,1,3,0,1,2,0,2,-2,0
+2010,Grupo D,Alemania,1,6,3,2,0,1,5,1,4,1
+2010,Grupo D,Ghana,2,4,3,1,1,1,2,2,0,1
+2010,Grupo D,Australia,3,4,3,1,1,1,3,6,-3,0
+2010,Grupo D,Serbia,4,3,3,1,0,2,2,3,-1,0
+2010,Grupo E,Países Bajos,1,9,3,3,0,0,5,1,4,1
+2010,Grupo E,Japón,2,6,3,2,0,1,4,2,2,1
+2010,Grupo E,Dinamarca,3,3,3,1,0,2,3,6,-3,0
+2010,Grupo E,Camerún,4,0,3,0,0,3,2,5,-3,0
+2010,Grupo F,Paraguay,1,5,3,1,2,0,3,1,2,1
+2010,Grupo F,Eslovaquia,2,4,3,1,1,1,4,5,-1,1
+2010,Grupo F,Nueva Zelanda,3,3,3,0,3,0,2,2,0,0
+2010,Grupo F,Italia,4,2,3,0,2,1,4,5,-1,0
+2010,Grupo G,Brasil,1,7,3,2,1,0,5,2,3,1
+2010,Grupo G,Portugal,2,5,3,1,2,0,7,0,7,1
+2010,Grupo G,Costa de Marfil,3,4,3,1,1,1,4,3,1,0
+2010,Grupo G,Corea del Norte,4,0,3,0,0,3,1,12,-11,0
+2010,Grupo H,España,1,6,3,2,0,1,4,2,2,1
+2010,Grupo H,Chile,2,6,3,2,0,1,3,2,1,1
+2010,Grupo H,Suiza,3,4,3,1,1,1,1,1,0,0
+2010,Grupo H,Honduras,4,1,3,0,1,2,0,3,-3,0
+2014,Grupo A,Brasil,1,7,3,2,1,0,7,2,5,1
+2014,Grupo A,México,2,7,3,2,1,0,4,1,3,1
+2014,Grupo A,Croacia,3,3,3,1,0,2,6,6,0,0
+2014,Grupo A,Camerún,4,0,3,0,0,3,1,9,-8,0
+2014,Grupo B,Países Bajos,1,9,3,3,0,0,10,3,7,1
+2014,Grupo B,Chile,2,6,3,2,0,1,5,3,2,1
+2014,Grupo B,España,3,3,3,1,0,2,4,7,-3,0
+2014,Grupo B,Australia,4,0,3,0,0,3,3,9,-6,0
+2014,Grupo C,Colombia,1,9,3,3,0,0,9,2,7,1
+2014,Grupo C,Grecia,2,4,3,1,1,1,2,4,-2,1
+2014,Grupo C,Costa de Marfil,3,3,3,1,0,2,4,5,-1,0
+2014,Grupo C,Japón,4,1,3,0,1,2,2,6,-4,0
+2014,Grupo D,Costa Rica,1,7,3,2,1,0,4,1,3,1
+2014,Grupo D,Uruguay,2,6,3,2,0,1,4,4,0,1
+2014,Grupo D,Italia,3,3,3,1,0,2,2,3,-1,0
+2014,Grupo D,Inglaterra,4,1,3,0,1,2,2,4,-2,0
+2014,Grupo E,Francia,1,7,3,2,1,0,8,2,6,1
+2014,Grupo E,Suiza,2,6,3,2,0,1,7,6,1,1
+2014,Grupo E,Ecuador,3,4,3,1,1,1,3,3,0,0
+2014,Grupo E,Honduras,4,0,3,0,0,3,1,8,-7,0
+2014,Grupo F,Argentina,1,9,3,3,0,0,6,3,3,1
+2014,Grupo F,Nigeria,2,4,3,1,1,1,3,3,0,1
+2014,Grupo F,Bosnia-Herzegovina,3,3,3,1,0,2,4,4,0,0
+2014,Grupo F,Irán,4,1,3,0,1,2,1,4,-3,0
+2014,Grupo G,Alemania,1,7,3,2,1,0,7,2,5,1
+2014,Grupo G,Estados Unidos,2,4,3,1,1,1,4,4,0,1
+2014,Grupo G,Portugal,3,4,3,1,1,1,4,7,-3,0
+2014,Grupo G,Ghana,4,1,3,0,1,2,4,6,-2,0
+2014,Grupo H,Bélgica,1,9,3,3,0,0,4,1,3,1
+2014,Grupo H,Argelia,2,4,3,1,1,1,6,5,1,1
+2014,Grupo H,Rusia,3,2,3,0,2,1,2,3,-1,0
+2014,Grupo H,Corea del Sur,4,1,3,0,1,2,3,6,-3,0
+2018,Grupo A,Uruguay,1,9,3,3,0,0,5,0,5,1
+2018,Grupo A,Rusia,2,6,3,2,0,1,8,4,4,1
+2018,Grupo A,Arabia Saudita,3,3,3,1,0,2,2,7,-5,0
+2018,Grupo A,Egipto,4,0,3,0,0,3,2,6,-4,0
+2018,Grupo B,España,1,5,3,1,2,0,6,5,1,1
+2018,Grupo B,Portugal,2,5,3,1,2,0,5,4,1,1
+2018,Grupo B,Irán,3,4,3,1,1,1,2,2,0,0
+2018,Grupo B,Marruecos,4,1,3,0,1,2,2,4,-2,0
+2018,Grupo C,Francia,1,7,3,2,1,0,3,1,2,1
+2018,Grupo C,Dinamarca,2,5,3,1,2,0,2,1,1,1
+2018,Grupo C,Perú,3,3,3,1,0,2,2,2,0,0
+2018,Grupo C,Australia,4,1,3,0,1,2,2,5,-3,0
+2018,Grupo D,Croacia,1,9,3,3,0,0,7,1,6,1
+2018,Grupo D,Argentina,2,4,3,1,1,1,3,5,-2,1
+2018,Grupo D,Nigeria,3,3,3,1,0,2,3,4,-1,0
+2018,Grupo D,Islandia,4,1,3,0,1,2,2,5,-3,0
+2018,Grupo E,Brasil,1,7,3,2,1,0,5,1,4,1
+2018,Grupo E,Suiza,2,5,3,1,2,0,5,4,1,1
+2018,Grupo E,Serbia,3,3,3,1,0,2,2,4,-2,0
+2018,Grupo E,Costa Rica,4,1,3,0,1,2,2,5,-3,0
+2018,Grupo F,Suecia,1,6,3,2,0,1,5,2,3,1
+2018,Grupo F,México,2,6,3,2,0,1,3,4,-1,1
+2018,Grupo F,Corea del Sur,3,3,3,1,0,2,3,3,0,0
+2018,Grupo F,Alemania,4,3,3,1,0,2,2,4,-2,0
+2018,Grupo G,Bélgica,1,9,3,3,0,0,9,2,7,1
+2018,Grupo G,Inglaterra,2,6,3,2,0,1,8,3,5,1
+2018,Grupo G,Túnez,3,3,3,1,0,2,5,8,-3,0
+2018,Grupo G,Panamá,4,0,3,0,0,3,2,11,-9,0
+2018,Grupo H,Colombia,1,6,3,2,0,1,5,2,3,1
+2018,Grupo H,Japón,2,4,3,1,1,1,4,4,0,1
+2018,Grupo H,Senegal,3,4,3,1,1,1,4,4,0,0
+2018,Grupo H,Polonia,4,3,3,1,0,2,2,5,-3,0
+2022,Grupo A,Países Bajos,1,7,3,2,1,0,5,1,4,1
+2022,Grupo A,Senegal,2,6,3,2,0,1,5,4,1,1
+2022,Grupo A,Ecuador,3,4,3,1,1,1,4,3,1,0
+2022,Grupo A,Catar,4,0,3,0,0,3,1,7,-6,0
+2022,Grupo B,Inglaterra,1,7,3,2,1,0,9,2,7,1
+2022,Grupo B,Estados Unidos,2,5,3,1,2,0,2,1,1,1
+2022,Grupo B,Irán,3,3,3,1,0,2,4,7,-3,0
+2022,Grupo B,Gales,4,1,3,0,1,2,1,6,-5,0
+2022,Grupo C,Argentina,1,6,3,2,0,1,5,2,3,1
+2022,Grupo C,Polonia,2,4,3,1,1,1,2,2,0,1
+2022,Grupo C,México,3,4,3,1,1,1,2,3,-1,0
+2022,Grupo C,Arabia Saudita,4,3,3,1,0,2,3,5,-2,0
+2022,Grupo D,Francia,1,6,3,2,0,1,6,3,3,1
+2022,Grupo D,Australia,2,6,3,2,0,1,3,4,-1,1
+2022,Grupo D,Túnez,3,4,3,1,1,1,1,1,0,0
+2022,Grupo D,Dinamarca,4,1,3,0,1,2,1,3,-2,0
+2022,Grupo E,Japón,1,6,3,2,0,1,4,3,1,1
+2022,Grupo E,España,2,4,3,1,1,1,9,3,6,1
+2022,Grupo E,Alemania,3,4,3,1,1,1,6,5,1,0
+2022,Grupo E,Costa Rica,4,3,3,1,0,2,3,11,-8,0
+2022,Grupo F,Marruecos,1,7,3,2,1,0,4,1,3,1
+2022,Grupo F,Croacia,2,5,3,1,2,0,4,1,3,1
+2022,Grupo F,Bélgica,3,4,3,1,1,1,1,2,-1,0
+2022,Grupo F,Canadá,4,0,3,0,0,3,2,7,-5,0
+2022,Grupo G,Brasil,1,6,3,2,0,1,3,1,2,1
+2022,Grupo G,Suiza,2,6,3,2,0,1,4,3,1,1
+2022,Grupo G,Camerún,3,4,3,1,1,1,4,4,0,0
+2022,Grupo G,Serbia,4,1,3,0,1,2,5,8,-3,0
+2022,Grupo H,Portugal,1,6,3,2,0,1,6,4,2,1
+2022,Grupo H,Corea del Sur,2,4,3,1,1,1,4,4,0,1
+2022,Grupo H,Uruguay,3,4,3,1,1,1,2,2,0,0
+2022,Grupo H,Ghana,4,3,3,1,0,2,5,7,-2,0

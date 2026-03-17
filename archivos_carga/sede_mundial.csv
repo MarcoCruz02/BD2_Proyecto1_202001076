@@ -48,11 +48,11 @@ anio,pais,ciudad_sede
 1966,Inglaterra,Sunderland
 1966,Inglaterra,Middlesbrough
 1966,Inglaterra,Leicester
-1970,Mexico,Ciudad de Mexico
-1970,Mexico,Guadalajara
-1970,Mexico,Leon
-1970,Mexico,Puebla
-1970,Mexico,Toluca
+1970,México,Ciudad de México
+1970,México,Guadalajara
+1970,México,Leon
+1970,México,Puebla
+1970,México,Toluca
 1974,Alemania Occidental,Munich
 1974,Alemania Occidental,Berlin
 1974,Alemania Occidental,Hamburgo
@@ -67,29 +67,29 @@ anio,pais,ciudad_sede
 1978,Argentina,Cordoba
 1978,Argentina,Mendoza
 1978,Argentina,Mar del Plata
-1982,Espa�a,Madrid
-1982,Espa�a,Barcelona
-1982,Espa�a,Valencia
-1982,Espa�a,Sevilla
-1982,Espa�a,Bilbao
-1982,Espa�a,Zaragoza
-1982,Espa�a,Malaga
-1982,Espa�a,Oviedo
-1982,Espa�a,Gijon
-1982,Espa�a,Valladolid
-1982,Espa�a,Alicante
-1982,Espa�a,Elche
-1982,Espa�a,Vigo
-1982,Espa�a,La Coruna
-1986,Mexico,Ciudad de Mexico
-1986,Mexico,Guadalajara
-1986,Mexico,Monterrey
-1986,Mexico,Leon
-1986,Mexico,Puebla
-1986,Mexico,Toluca
-1986,Mexico,Queretaro
-1986,Mexico,Irapuato
-1986,Mexico,Nezahualcoyotl
+1982,España,Madrid
+1982,España,Barcelona
+1982,España,Valencia
+1982,España,Sevilla
+1982,España,Bilbao
+1982,España,Zaragoza
+1982,España,Malaga
+1982,España,Oviedo
+1982,España,Gijon
+1982,España,Valladolid
+1982,España,Alicante
+1982,España,Elche
+1982,España,Vigo
+1982,España,La Coruna
+1986,México,Ciudad de México
+1986,México,Guadalajara
+1986,México,Monterrey
+1986,México,Leon
+1986,México,Puebla
+1986,México,Toluca
+1986,México,Queretaro
+1986,México,Irapuato
+1986,México,Nezahualcoyotl
 1990,Italia,Roma
 1990,Italia,Milan
 1990,Italia,Turin
@@ -130,17 +130,17 @@ anio,pais,ciudad_sede
 2002,Corea del Sur,Suwon
 2002,Corea del Sur,Gwangju
 2002,Corea del Sur,Jeonju
-2002,Japon,Sapporo
-2002,Japon,Yokohama
-2002,Japon,Osaka
-2002,Japon,Kobe
-2002,Japon,Nagoya
-2002,Japon,Miyagi
-2002,Japon,Niigata
-2002,Japon,Oita
-2002,Japon,Shizuoka
-2002,Japon,Kashima
-2002,Japon,Saitama
+2002,Japón,Sapporo
+2002,Japón,Yokohama
+2002,Japón,Osaka
+2002,Japón,Kobe
+2002,Japón,Nagoya
+2002,Japón,Miyagi
+2002,Japón,Niigata
+2002,Japón,Oita
+2002,Japón,Shizuoka
+2002,Japón,Kashima
+2002,Japón,Saitama
 2006,Alemania,Berlin
 2006,Alemania,Munich
 2006,Alemania,Dortmund
@@ -153,15 +153,15 @@ anio,pais,ciudad_sede
 2006,Alemania,Gelsenkirchen
 2006,Alemania,Dusseldorf
 2006,Alemania,Kaiserslautern
-2010,Sudafrica,Johannesburgo
-2010,Sudafrica,Ciudad del Cabo
-2010,Sudafrica,Durban
-2010,Sudafrica,Pretoria
-2010,Sudafrica,Port Elizabeth
-2010,Sudafrica,Bloemfontein
-2010,Sudafrica,Polokwane
-2010,Sudafrica,Nelspruit
-2010,Sudafrica,Rustenburg
+2010,Sudáfrica,Johannesburgo
+2010,Sudáfrica,Ciudad del Cabo
+2010,Sudáfrica,Durban
+2010,Sudáfrica,Pretoria
+2010,Sudáfrica,Port Elizabeth
+2010,Sudáfrica,Bloemfontein
+2010,Sudáfrica,Polokwane
+2010,Sudáfrica,Nelspruit
+2010,Sudáfrica,Rustenburg
 2014,Brasil,Rio de Janeiro
 2014,Brasil,Sao Paulo
 2014,Brasil,Brasilia
@@ -185,8 +185,8 @@ anio,pais,ciudad_sede
 2018,Rusia,Saransk
 2018,Rusia,Nizhni Novgorod
 2018,Rusia,Volgogrado
-2022,Qatar,Doha
-2022,Qatar,Lusail
-2022,Qatar,Al Rayyan
-2022,Qatar,Al Khor
-2022,Qatar,Al Wakrah
+2022,Catar,Doha
+2022,Catar,Lusail
+2022,Catar,Al Rayyan
+2022,Catar,Al Khor
+2022,Catar,Al Wakrah
