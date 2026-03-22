@@ -1275,28 +1275,7 @@ lista_urls = [
 ]
 
 lista_urlsMund = [
-    "https://www.losmundialesdefutbol.com/mundiales/1930_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1934_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1938_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1950_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1954_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1958_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1962_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1966_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1970_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1974_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1978_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1982_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1986_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1990_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1994_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/1998_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/2002_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/2006_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/2010_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/2014_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/2018_mundial.php",
-    "https://www.losmundialesdefutbol.com/mundiales/2022_mundial.php"
+    "https://www.losmundialesdefutbol.com/mundiales/1930_mundial.php"
 ]
 
 lista_urlsPartidos = [
